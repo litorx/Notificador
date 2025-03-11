@@ -96,31 +96,30 @@ Seu principal objetivo é **monitorar** o banco de dados de clientes, **identifi
 
 ## Como Executar
 
-bash
 # 1) Instalar Dependências
 pip install -r requirements.txt
 
 # 2) Definir Variáveis de Ambiente
-export DATABASE_URL="postgresql://usuario:senha@host:porta/db"
-export TWILIO_ACCOUNT_SID="..."
-export TWILIO_AUTH_TOKEN="..."
-export TWILIO_FROM_NUMBER="whatsapp:+14155238886"
-export COMPANY_NAME="Folks"
-export PLATFORM_LINK="https://calendly.com/"
-export USE_SANDBOX="true"
+- export DATABASE_URL="postgresql://usuario:senha@host:porta/db"
+- export TWILIO_ACCOUNT_SID="..."
+- export TWILIO_AUTH_TOKEN="..."
+- export TWILIO_FROM_NUMBER="whatsapp:+XXXX"
+- export COMPANY_NAME="Folks"
+- export PLATFORM_LINK="Plataforma"
+- export USE_SANDBOX="true/false"
 
 # 3) Executar
-python notificador.py
-# O script rodará em loop infinito, processando e enviando notificações.
+- **python notificador.py**
+- **O script rodará em loop infinito, processando e enviando notificações.**
 
 # 4) Implantar na Nuvem (opcional)
-# Dockerizar o script e enviar para GCP (Cloud Run) ou outro provedor.
-# Ajustar variáveis de ambiente no serviço de destino.
+- **Dockerizar o script e enviar para GCP (Cloud Run) ou outro provedor.**
+- **Ajustar variáveis de ambiente no serviço de destino.**
 
 # Arquitetura Simplificada
 
-mermaid
-flowchart LR
+- mermaid
+- flowchart LR
     A((Banco de dados)) --> B[Script Notificador]
     B --> C[Classificação de Exames<br/>(TUSS + Regex)]
     C --> D((Twilio/WhatsApp))
@@ -128,21 +127,20 @@ flowchart LR
     D --> F(Plataforma de Agendamento)
 
 
-**Banco de dados**: Registros estruturados e não estruturados.  
-**Script Notificador**: Lê dados em chunks, classifica e envia mensagens.  
-**Twilio**: Serviço de mensageria via WhatsApp.  
-**Plataforma de Agendamento**: Link para o paciente marcar o exame.  
+- **Banco de dados**: Registros estruturados e não estruturados.  
+- **Script Notificador**: Lê dados em chunks, classifica e envia mensagens.  
+- **Twilio**: Serviço de mensageria via WhatsApp.  
+- **Plataforma de Agendamento**: Link para o paciente marcar o exame.  
 
-## Melhorias Futuras
+# Melhorias Futuras
+**Machine Learning Avançado**
+- Substituir regex por um classificador robusto (Hugging Face, scikit etc.) para extrair tipo de exame e parte do corpo.
 
-### Machine Learning Avançado
-Substituir regex por um classificador robusto (Hugging Face, scikit etc.) para extrair tipo de exame e parte do corpo.
+**Canal Bidirecional**
+- Permitir respostas do paciente via WhatsApp, integrando com o agendamento automático.
 
-### Canal Bidirecional
-Permitir respostas do paciente via WhatsApp, integrando com o agendamento automático.
+**Testes A/B**
+- Experimentar diferentes cópias de mensagem para maximizar conversão.
 
-### Testes A/B
-Experimentar diferentes cópias de mensagem para maximizar conversão.
-
-### Dashboards
-Construir relatórios com Plotly ou Looker Studio, exibindo taxa de conversão, exames pendentes e enviados.
+**Dashboards**
+- Construir relatórios com Plotly ou Looker Studio, exibindo taxa de conversão, exames pendentes e enviados.
