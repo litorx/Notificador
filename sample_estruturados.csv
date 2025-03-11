@@ -1,0 +1,1253 @@
+ID,DATA,TEL,CPF,SOLICITANTE,CD_TUSS,DS_RECEITA
+9458,2020-04-25,1100009458,12345679458,Gustavo,40901114,Mamas
+11161,2020-05-06,1100011161,123456711161,Maria,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+14824,2020-02-03,1100014824,123456714824,Pedro,40805018,Tórax - 1 Incidência
+259,2020-03-15,1100000259,12345670259,Isabela,40103064,Audiometria De Tronco Cerebral (Pea) Bera
+7014,2020-08-18,1100007014,12345677014,Vinícius,40101010,Ecg Convencional De Até 12 Derivações
+5827,2020-06-04,1100005827,12345675827,Paula,41101014,Crânio (Encéfalo)
+8954,2020-09-06,1100008954,12345678954,Vinícius,40901114,Mamas
+6637,2020-09-25,1100006637,12345676637,Tatiana,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+8707,2020-06-13,1100008707,12345678707,Paula,20102020,Holter De 24 Horas - 3 Canais - Digital
+14503,2020-08-17,1100014503,123456714503,Ana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+13490,2020-08-17,1100013490,123456713490,Fernando,40101037,
+9946,2020-07-17,1100009946,12345679946,Carlos,40808041,Mamografia Digital Bilateral
+12246,2020-11-18,1100012246,123456712246,Carlos,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+98,2020-09-30,1100000098,12345670098,Gustavo,40103072,Audiometria Tonal Limiar Com Testes De Discriminação
+5941,2020-04-20,1100005941,12345675941,Maria,41101014,Crânio (Encéfalo)
+15534,2020-12-26,1100015534,123456715534,Vinícius,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+9545,2020-06-09,1100009545,12345679545,Mariana,40901114,Mamas
+9606,2020-04-19,1100009606,12345679606,Carlos,40901114,Mamas
+3942,2020-07-19,1100003942,12345673942,José,40901122,Abdome Total (Inclui Pelve)
+4829,2020-01-14,1100004829,12345674829,Juliana,40901220,Articular (Por Articulação)
+7987,2020-08-27,1100007987,12345677987,Paula,40901106,Ecodopplercardiograma Transtorácico
+4519,2020-11-08,1100004519,12345674519,Isabela,41101316,Articular (Por Articulação)
+4084,2020-11-04,1100004084,12345674084,Pedro,40901122,Abdome Total (Inclui Pelve)
+1799,2020-10-15,1100001799,12345671799,Isabela,41001117,Tc - Pelve Ou Bacia
+9157,2020-10-26,1100009157,12345679157,Tatiana,40901114,Mamas
+4451,2020-08-29,1100004451,12345674451,Cristina,41101316,Articular (Por Articulação)
+1142,2020-05-30,1100001142,12345671142,José,40802051,Coluna Lombo-Sacra -3 Incidências
+10641,2020-01-13,1100010641,123456710641,Maria,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+10682,2020-06-01,1100010682,123456710682,José,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+8842,2020-04-06,1100008842,12345678842,José,40901114,Mamas
+374,2020-07-29,1100000374,12345670374,Vinícius,40601129,Procedimento Diagnóstico Citopatológico Oncótico De Líquidos E Raspados Cutâneos
+5712,2020-05-15,1100005712,12345675712,Rafael,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+13482,2020-04-24,1100013482,123456713482,José,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+12189,2020-07-04,1100012189,123456712189,Juliana,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+12473,2020-08-03,1100012473,123456712473,Patrícia,40105075,Prova De Função Pulmonar Completa (Ou Espirometria)
+11714,2020-03-19,1100011714,123456711714,Vinícius,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+9600,2020-11-11,1100009600,12345679600,João,40901114,Mamas
+2585,2020-03-09,1100002585,12345672585,Mariana,41101170,"Abdome Superior (Fígado, Pâncreas, Baço, Rins, Supra-Renais, Retroperitônio)"
+11330,2020-01-18,1100011330,123456711330,Fernando,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+11546,2020-03-16,1100011546,123456711546,Carlos,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+6343,2020-08-02,1100006343,12345676343,Ana,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+6250,2020-11-20,1100006250,12345676250,Fernando,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+9366,2020-01-11,1100009366,12345679366,Carlos,40901114,Mamas
+15245,2020-07-07,1100015245,123456715245,Mariana,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+6546,2020-05-11,1100006546,12345676546,Carlos,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+11002,2020-10-04,1100011002,123456711002,José,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+5685,2020-06-29,1100005685,12345675685,Mariana,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+10116,2020-07-10,1100010116,123456710116,Rodrigo,40808041,Mamografia Digital Bilateral
+13594,2020-08-12,1100013594,123456713594,Vinícius,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+10595,2020-02-18,1100010595,123456710595,Camila,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+3355,2020-12-10,1100003355,12345673355,Camila,40901122,Abdome Total (Inclui Pelve)
+10571,2020-03-26,1100010571,123456710571,Cristina,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+10979,2020-04-19,1100010979,123456710979,Isabela,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+11068,2020-03-06,1100011068,123456711068,Lucas,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+14913,2020-01-03,1100014913,123456714913,Patrícia,40805018,Tórax - 1 Incidência
+5946,2020-11-28,1100005946,12345675946,Carlos,41101014,Crânio (Encéfalo)
+6239,2020-10-18,1100006239,12345676239,Isabela,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+117,2020-07-26,1100000117,12345670117,Tatiana,40103072,Audiometria Tonal Limiar Com Testes De Discriminação
+10809,2020-07-20,1100010809,123456710809,Juliana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+4667,2020-04-19,1100004667,12345674667,Paula,41101316,Articular (Por Articulação)
+10319,2020-07-21,1100010319,123456710319,Isabela,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+2932,2020-05-05,1100002932,12345672932,Rafael,40901122,Abdome Total (Inclui Pelve)
+7851,2020-03-09,1100007851,12345677851,Cristina,40901106,Ecodopplercardiograma Transtorácico
+10403,2020-05-08,1100010403,123456710403,Ana,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+7497,2020-08-08,1100007497,12345677497,Tatiana,40901106,Ecodopplercardiograma Transtorácico
+10182,2020-05-13,1100010182,123456710182,José,40808041,Mamografia Digital Bilateral
+1495,2020-06-11,1100001495,12345671495,Camila,40804011,Bacia
+12320,2020-10-08,1100012320,123456712320,João,40601013,Procedimento Diagnóstico Peroperatório Sem Deslocamento Do Patologista
+13707,2020-10-24,1100013707,123456713707,Paula,40101045,Teste Ergométrico Convencional - 3 Ou Mais Derivações Simultâneas (Inclui Ecg Basal Convencional)
+3030,2020-07-28,1100003030,12345673030,Fernando,40901122,Abdome Total (Inclui Pelve)
+7319,2020-06-26,1100007319,12345677319,Isabela,40101010,Ecg Convencional De Até 12 Derivações
+6955,2020-03-23,1100006955,12345676955,Camila,40101010,Ecg Convencional De Até 12 Derivações
+182,2020-01-08,1100000182,12345670182,José,40103072,Audiometria Tonal Limiar Com Testes De Discriminação
+7541,2020-02-27,1100007541,12345677541,Maria,40901106,Ecodopplercardiograma Transtorácico
+12122,2020-04-20,1100012122,123456712122,José,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+1731,2020-08-23,1100001731,12345671731,Cristina,40803139,Mãos E Punhos Para Idade Óssea
+3050,2020-01-30,1100003050,12345673050,Fernando,40901122,Abdome Total (Inclui Pelve)
+8571,2020-05-09,1100008571,12345678571,Cristina,20102020,Holter De 24 Horas - 3 Canais - Digital
+13095,2020-09-10,1100013095,123456713095,Camila,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+10591,2020-12-28,1100010591,123456710591,Cristina,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+11792,2020-06-02,1100011792,123456711792,Rafael,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+14103,2020-07-31,1100014103,123456714103,Ana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+1959,2020-03-14,1100001959,12345671959,Isabela,41101308,Pé (Antepé) - Não Inclui Tornozelo
+3731,2020-08-27,1100003731,12345673731,Cristina,40901122,Abdome Total (Inclui Pelve)
+4672,2020-02-05,1100004672,12345674672,Rafael,41101316,Articular (Por Articulação)
+9098,2020-05-11,1100009098,12345679098,Gustavo,40901114,Mamas
+13114,2020-12-05,1100013114,123456713114,Vinícius,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+14232,2020-04-23,1100014232,123456714232,Rafael,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+3007,2020-03-06,1100003007,12345673007,Paula,40901122,Abdome Total (Inclui Pelve)
+10606,2020-07-17,1100010606,123456710606,Carlos,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+4121,2020-07-20,1100004121,12345674121,Maria,41101537,Angio-Rm Arterial de Crânio
+4770,2020-11-17,1100004770,12345674770,Fernando,40901220,Articular (Por Articulação)
+13116,2020-03-04,1100013116,123456713116,Rodrigo,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+7337,2020-11-03,1100007337,12345677337,Tatiana,40101010,Ecg Convencional De Até 12 Derivações
+8323,2020-07-07,1100008323,12345678323,Ana,40202615,Endoscopia Digestiva Alta Com Biópsia E Teste De Urease (Pesquisa Helicobacter Pylori)
+4532,2020-10-30,1100004532,12345674532,Rafael,41101316,Articular (Por Articulação)
+14718,2020-04-16,1100014718,123456714718,Gustavo,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+14024,2020-11-25,1100014024,123456714024,Pedro,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+4037,2020-06-07,1100004037,12345674037,Tatiana,40901122,Abdome Total (Inclui Pelve)
+3367,2020-10-01,1100003367,12345673367,Paula,40901122,Abdome Total (Inclui Pelve)
+7430,2020-08-14,1100007430,12345677430,Fernando,40901106,Ecodopplercardiograma Transtorácico
+4595,2020-10-13,1100004595,12345674595,Camila,41101316,Articular (Por Articulação)
+1658,2020-01-22,1100001658,12345671658,Gustavo,40802035,Coluna Dorsal - 2 Incidências
+9860,2020-12-09,1100009860,12345679860,João,40808041,Mamografia Digital Bilateral
+3767,2020-10-31,1100003767,12345673767,Paula,40901122,Abdome Total (Inclui Pelve)
+821,2020-09-28,1100000821,12345670821,Maria,29020085,Espirometria Após Broncodilatador
+13215,2020-11-01,1100013215,123456713215,Camila,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+15573,2020-08-23,1100015573,123456715573,Patrícia,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+3210,2020-05-03,1100003210,12345673210,Fernando,40901122,Abdome Total (Inclui Pelve)
+12889,2020-09-07,1100012889,123456712889,Juliana,41001079,Tc - Tórax
+1679,2020-05-17,1100001679,12345671679,Isabela,40802051,Coluna Lombo-Sacra -3 Incidências
+3563,2020-04-30,1100003563,12345673563,Ana,40901122,Abdome Total (Inclui Pelve)
+9306,2020-10-18,1100009306,12345679306,Carlos,40901114,Mamas
+1156,2020-01-13,1100001156,12345671156,Rodrigo,40804097,Pé Ou Pododáctilo
+2703,2020-06-23,1100002703,12345672703,Ana,40901130,"Abdome Superior (Fígado, Vias Biliares, Vesícula, Pâncreas, Baço)"
+11008,2020-06-12,1100011008,123456711008,Lucas,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+8974,2020-02-17,1100008974,12345678974,Vinícius,40901114,Mamas
+11350,2020-04-13,1100011350,123456711350,Fernando,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+14810,2020-02-13,1100014810,123456714810,Fernando,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+11691,2020-11-06,1100011691,123456711691,Cristina,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+15550,2020-01-14,1100015550,123456715550,Fernando,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+15244,2020-07-21,1100015244,123456715244,Pedro,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+6434,2020-04-27,1100006434,12345676434,Vinícius,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+5606,2020-07-07,1100005606,12345675606,Carlos,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+13041,2020-04-20,1100013041,123456713041,Maria,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+13872,2020-04-20,1100013872,123456713872,Rafael,40101045,Teste Ergométrico Convencional - 3 Ou Mais Derivações Simultâneas (Inclui Ecg Basal Convencional)
+9785,2020-08-16,1100009785,12345679785,Mariana,40808041,Mamografia Digital Bilateral
+1307,2020-09-05,1100001307,12345671307,Paula,40804097,Pé Ou Pododáctilo
+1363,2020-05-20,1100001363,12345671363,Ana,40804054,Joelho
+9003,2020-12-19,1100009003,12345679003,Ana,40901114,Mamas
+4736,2020-04-13,1100004736,12345674736,Rodrigo,40901220,Articular (Por Articulação)
+12675,2020-10-06,1100012675,123456712675,Camila,41001079,Tc - Tórax
+14680,2020-07-07,1100014680,123456714680,João,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+12861,2020-05-23,1100012861,123456712861,Maria,41001079,Tc - Tórax
+14071,2020-06-15,1100014071,123456714071,Cristina,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+837,2020-09-08,1100000837,12345670837,Tatiana,20010010,Eletrocardiograma - Ecg
+13244,2020-10-08,1100013244,123456713244,Pedro,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+7920,2020-06-22,1100007920,12345677920,João,40901106,Ecodopplercardiograma Transtorácico
+740,2020-12-09,1100000740,12345670740,João,45552,Tc De Tórax
+5435,2020-10-05,1100005435,12345675435,Camila,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+6619,2020-03-13,1100006619,12345676619,Isabela,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+14184,2020-09-20,1100014184,123456714184,Pedro,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+9401,2020-05-29,1100009401,12345679401,Maria,40901114,Mamas
+3480,2020-12-01,1100003480,12345673480,João,40901122,Abdome Total (Inclui Pelve)
+15414,2020-04-16,1100015414,123456715414,Vinícius,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+13502,2020-12-18,1100013502,123456713502,José,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+15546,2020-07-21,1100015546,123456715546,Carlos,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+775,2020-07-29,1100000775,12345670775,Camila,41301340,Urodinâmica Completa
+6112,2020-10-19,1100006112,12345676112,Rafael,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+10985,2020-09-20,1100010985,123456710985,Mariana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+6049,2020-10-10,1100006049,12345676049,Juliana,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+2022,2020-04-24,1100002022,12345672022,José,41101480,Mama (Bilateral)
+2446,2020-09-14,1100002446,12345672446,Carlos,40901084,Ecodopplercardiograma Fetal Com Mapeamento De Fluxo Em Cores
+6767,2020-06-09,1100006767,12345676767,Paula,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+13461,2020-06-30,1100013461,123456713461,Maria,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+15641,2020-03-30,1100015641,123456715641,Maria,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+15022,2020-04-21,1100015022,123456715022,José,40805026,Tórax - 2 Incidências
+1603,2020-12-25,1100001603,12345671603,Ana,40804097,Pé Ou Pododáctilo
+12965,2020-10-21,1100012965,123456712965,Mariana,41001079,Tc - Tórax
+2797,2020-05-19,1100002797,12345672797,Tatiana,40901122,Abdome Total (Inclui Pelve)
+11608,2020-01-21,1100011608,123456711608,Lucas,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+2183,2020-01-18,1100002183,12345672183,Ana,40901262,Obstétrica Morfológica
+12910,2020-08-18,1100012910,123456712910,Fernando,41001079,Tc - Tórax
+14360,2020-04-30,1100014360,123456714360,João,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+11654,2020-02-17,1100011654,123456711654,Vinícius,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+3326,2020-04-01,1100003326,12345673326,Carlos,40901122,Abdome Total (Inclui Pelve)
+3179,2020-06-12,1100003179,12345673179,Isabela,40901122,Abdome Total (Inclui Pelve)
+15267,2020-01-10,1100015267,123456715267,Paula,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+8870,2020-09-29,1100008870,12345678870,Fernando,40901114,Mamas
+15627,2020-09-12,1100015627,123456715627,Paula,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+7383,2020-12-06,1100007383,12345677383,Ana,40101010,Ecg Convencional De Até 12 Derivações
+3520,2020-07-03,1100003520,12345673520,João,40901122,Abdome Total (Inclui Pelve)
+2077,2020-07-10,1100002077,12345672077,Tatiana,41101545,Angio-RM venosa de Crânio
+2381,2020-02-07,1100002381,12345672381,Maria,40901076,Ecodopplercardiograma Com Estresse Farmacológico
+828,2020-10-01,1100000828,12345670828,Lucas,40103579,Potencial Evocado Auditivo De Média Latência (Pea-Ml)
+14046,2020-01-08,1100014046,123456714046,Carlos,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+7609,2020-07-28,1100007609,12345677609,Juliana,40901106,Ecodopplercardiograma Transtorácico
+9437,2020-09-28,1100009437,12345679437,Tatiana,40901114,Mamas
+10885,2020-04-15,1100010885,123456710885,Mariana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+14073,2020-11-27,1100014073,123456714073,Patrícia,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+5598,2020-07-01,1100005598,12345675598,Gustavo,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+11050,2020-08-26,1100011050,123456711050,Fernando,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+13100,2020-11-10,1100013100,123456713100,João,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+488,2020-03-07,1100000488,12345670488,Lucas,20010141,Ecocardiograma Bidimensional Com Mapeamento De Fluxo À Cores
+9563,2020-11-01,1100009563,12345679563,Ana,40901114,Mamas
+12783,2020-03-08,1100012783,123456712783,Ana,41001079,Tc - Tórax
+2457,2020-06-26,1100002457,12345672457,Tatiana,40901238,Obstétrica
+7448,2020-04-11,1100007448,12345677448,Lucas,40901106,Ecodopplercardiograma Transtorácico
+4801,2020-05-17,1100004801,12345674801,Maria,40901220,Articular (Por Articulação)
+1911,2020-09-01,1100001911,12345671911,Cristina,41001010,Tc- Crânio Ou Sela Túrsica Ou Órbitas
+880,2020-02-25,1100000880,12345670880,João,41301374,Vulvoscopia (Vulva E Períneo)
+13282,2020-01-12,1100013282,123456713282,José,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+3594,2020-08-22,1100003594,12345673594,Vinícius,40901122,Abdome Total (Inclui Pelve)
+12940,2020-10-24,1100012940,123456712940,João,41001079,Tc - Tórax
+14972,2020-09-30,1100014972,123456714972,Rafael,40805026,Tórax - 2 Incidências
+1414,2020-10-27,1100001414,12345671414,Vinícius,40801128,Adenóides Ou Cavum
+14083,2020-04-27,1100014083,123456714083,Ana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+2224,2020-03-08,1100002224,12345672224,Pedro,40901181,"Abdome Inferior Feminino (Bexiga, Útero, Ovário E Anexos)"
+5776,2020-03-27,1100005776,12345675776,Rodrigo,41101014,Crânio (Encéfalo)
+12431,2020-08-22,1100012431,123456712431,Cristina,40105075,Prova De Função Pulmonar Completa (Ou Espirometria)
+10489,2020-09-22,1100010489,123456710489,Juliana,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+5500,2020-10-06,1100005500,12345675500,João,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+854,2020-07-10,1100000854,12345670854,Vinícius,40201120,Endoscopia Digestiva Alta
+6457,2020-01-18,1100006457,12345676457,Tatiana,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+678,2020-05-05,1100000678,12345670678,Gustavo,41001230,Angiotomografia coronariana
+6435,2020-04-24,1100006435,12345676435,Camila,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+11632,2020-04-15,1100011632,123456711632,Rafael,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+5279,2020-01-16,1100005279,12345675279,Isabela,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+3384,2020-02-14,1100003384,12345673384,Pedro,40901122,Abdome Total (Inclui Pelve)
+7220,2020-05-16,1100007220,12345677220,João,40101010,Ecg Convencional De Até 12 Derivações
+9913,2020-10-04,1100009913,12345679913,Patrícia,40808041,Mamografia Digital Bilateral
+14642,2020-02-24,1100014642,123456714642,José,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+7568,2020-04-12,1100007568,12345677568,Lucas,40901106,Ecodopplercardiograma Transtorácico
+7898,2020-11-27,1100007898,12345677898,Gustavo,40901106,Ecodopplercardiograma Transtorácico
+2680,2020-08-27,1100002680,12345672680,João,40901130,"Abdome Superior (Fígado, Vias Biliares, Vesícula, Pâncreas, Baço)"
+15152,2020-12-21,1100015152,123456715152,Rafael,40901750,US - Próstata (via abdominal)
+10747,2020-03-10,1100010747,123456710747,Paula,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+11010,2020-01-06,1100011010,123456711010,Fernando,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+14260,2020-08-10,1100014260,123456714260,João,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+1278,2020-09-17,1100001278,12345671278,Gustavo,40804011,Bacia
+10279,2020-05-04,1100010279,123456710279,Isabela,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+11777,2020-04-02,1100011777,123456711777,Tatiana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+14817,2020-08-24,1100014817,123456714817,Tatiana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+890,2020-05-21,1100000890,12345670890,Fernando,41301102,Colposcopia (Cérvice Uterina E Vagina)
+12767,2020-12-05,1100012767,123456712767,Paula,41001079,Tc - Tórax
+5138,2020-12-08,1100005138,12345675138,Gustavo,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+11084,2020-12-17,1100011084,123456711084,Pedro,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+9370,2020-09-12,1100009370,12345679370,Fernando,40901114,Mamas
+2316,2020-06-11,1100002316,12345672316,Rodrigo,40901157,"Aparelho Urinário Feminino (Rins, Ureteres E Bexiga)"
+5766,2020-11-14,1100005766,12345675766,Carlos,41101014,Crânio (Encéfalo)
+11698,2020-05-10,1100011698,123456711698,Gustavo,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+4414,2020-08-13,1100004414,12345674414,Vinícius,41101316,Articular (Por Articulação)
+639,2020-10-18,1100000639,12345670639,Isabela,51010127,Impedanciometria - Pesquisa Do Reflexo Estapédio - Timpanometria
+4729,2020-06-28,1100004729,12345674729,Juliana,41101316,Articular (Por Articulação)
+5030,2020-03-04,1100005030,12345675030,Fernando,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+9137,2020-09-16,1100009137,12345679137,Tatiana,40901114,Mamas
+3680,2020-03-01,1100003680,12345673680,João,40901122,Abdome Total (Inclui Pelve)
+9691,2020-08-17,1100009691,12345679691,Cristina,40901114,Mamas
+8776,2020-10-29,1100008776,12345678776,Rodrigo,40901114,Mamas
+8074,2020-06-01,1100008074,12345678074,Vinícius,40901106,Ecodopplercardiograma Transtorácico
+4437,2020-11-28,1100004437,12345674437,Tatiana,41101316,Articular (Por Articulação)
+9362,2020-07-08,1100009362,12345679362,José,40901114,Mamas
+263,2020-11-29,1100000263,12345670263,Ana,40601129,Procedimento Diagnóstico Citopatológico Oncótico De Líquidos E Raspados Cutâneos
+7613,2020-03-30,1100007613,12345677613,Patrícia,40901106,Ecodopplercardiograma Transtorácico
+9049,2020-03-04,1100009049,12345679049,Juliana,40901114,Mamas
+11234,2020-10-31,1100011234,123456711234,Vinícius,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+13404,2020-03-30,1100013404,123456713404,Pedro,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+5601,2020-08-30,1100005601,12345675601,Maria,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+762,2020-11-15,1100000762,12345670762,José,45552,Tc De Tórax
+11067,2020-07-31,1100011067,123456711067,Paula,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+6225,2020-11-21,1100006225,12345676225,Mariana,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+8291,2020-04-30,1100008291,12345678291,Cristina,40202615,Endoscopia Digestiva Alta Com Biópsia E Teste De Urease (Pesquisa Helicobacter Pylori)
+1378,2020-02-11,1100001378,12345671378,Gustavo,40802019,Coluna Cervical - 3 Incidências
+4826,2020-04-27,1100004826,12345674826,Carlos,40901220,Articular (Por Articulação)
+11441,2020-05-25,1100011441,123456711441,Maria,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+9619,2020-01-04,1100009619,12345679619,Isabela,40901114,Mamas
+12350,2020-11-25,1100012350,123456712350,Fernando,40601013,Procedimento Diagnóstico Peroperatório Sem Deslocamento Do Patologista
+11223,2020-10-03,1100011223,123456711223,Ana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+13366,2020-06-30,1100013366,123456713366,Carlos,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+6667,2020-12-18,1100006667,12345676667,Paula,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+1239,2020-06-15,1100001239,12345671239,Isabela,40804011,Bacia
+8001,2020-10-21,1100008001,12345678001,Maria,40901106,Ecodopplercardiograma Transtorácico
+14314,2020-04-10,1100014314,123456714314,Vinícius,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+1607,2020-08-27,1100001607,12345671607,Paula,40803139,Mãos E Punhos Para Idade Óssea
+4773,2020-07-31,1100004773,12345674773,Patrícia,40901220,Articular (Por Articulação)
+4943,2020-10-17,1100004943,12345674943,Ana,17111013,Colonoscopia
+748,2020-03-28,1100000748,12345670748,Lucas,33010021,U.S. Abdômen Total 
+5514,2020-04-29,1100005514,12345675514,Vinícius,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+8568,2020-04-06,1100008568,12345678568,Lucas,20102020,Holter De 24 Horas - 3 Canais - Digital
+7247,2020-12-28,1100007247,12345677247,Paula,40101010,Ecg Convencional De Até 12 Derivações
+8029,2020-07-08,1100008029,12345678029,Juliana,40901106,Ecodopplercardiograma Transtorácico
+4714,2020-09-05,1100004714,12345674714,Vinícius,41101316,Articular (Por Articulação)
+4327,2020-03-13,1100004327,12345674327,Paula,40901769,"Aparelho Urinário  (Rins, Ureteres E Bexiga )"
+5220,2020-11-04,1100005220,12345675220,João,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+9712,2020-05-20,1100009712,12345679712,Rafael,40901114,Mamas
+14681,2020-11-10,1100014681,123456714681,Maria,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+13937,2020-11-23,1100013937,123456713937,Tatiana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+10715,2020-12-22,1100010715,123456710715,Camila,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+4272,2020-07-01,1100004272,12345674272,Rafael,40901769,"Aparelho Urinário  (Rins, Ureteres E Bexiga )"
+2101,2020-01-18,1100002101,12345672101,Maria,40901173,"Abdome Inferior Masculino (Bexiga, Próstata E Vesículas Seminais)"
+1052,2020-11-08,1100001052,12345671052,Rafael,42352,Rx Tórax 2p
+5964,2020-06-20,1100005964,12345675964,Pedro,41101014,Crânio (Encéfalo)
+4723,2020-12-24,1100004723,12345674723,Ana,41101316,Articular (Por Articulação)
+12867,2020-08-23,1100012867,123456712867,Paula,41001079,Tc - Tórax
+12128,2020-09-17,1100012128,123456712128,Lucas,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+1936,2020-11-09,1100001936,12345671936,Rodrigo,40103536,Polissonograma Com Eeg De Noite Inteira
+6255,2020-11-20,1100006255,12345676255,Camila,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+7160,2020-02-21,1100007160,12345677160,João,40101010,Ecg Convencional De Até 12 Derivações
+6285,2020-07-15,1100006285,12345676285,Mariana,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+14686,2020-03-22,1100014686,123456714686,Carlos,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+132,2020-02-23,1100000132,12345670132,Rafael,40103080,Audiometria Tonal Limiar Infantil Condicionada (Qualquer Técnica) - Peep-Show
+4288,2020-04-02,1100004288,12345674288,Lucas,40901769,"Aparelho Urinário  (Rins, Ureteres E Bexiga )"
+8169,2020-09-09,1100008169,12345678169,Juliana,40901106,Ecodopplercardiograma Transtorácico
+8668,2020-05-08,1100008668,12345678668,Lucas,20102020,Holter De 24 Horas - 3 Canais - Digital
+4131,2020-06-05,1100004131,12345674131,Cristina,41101537,Angio-Rm Arterial de Crânio
+7485,2020-11-16,1100007485,12345677485,Mariana,40901106,Ecodopplercardiograma Transtorácico
+7091,2020-10-27,1100007091,12345677091,Cristina,40101010,Ecg Convencional De Até 12 Derivações
+3421,2020-03-31,1100003421,12345673421,Maria,40901122,Abdome Total (Inclui Pelve)
+9051,2020-05-06,1100009051,12345679051,Cristina,40901114,Mamas
+10696,2020-01-31,1100010696,123456710696,Rodrigo,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+4008,2020-08-28,1100004008,12345674008,Lucas,40901122,Abdome Total (Inclui Pelve)
+2482,2020-07-22,1100002482,12345672482,José,40901386,Doppler Colorido De Órgão Ou Estrutura Isolada
+8365,2020-07-30,1100008365,12345678365,Mariana,40202615,Endoscopia Digestiva Alta Com Biópsia E Teste De Urease (Pesquisa Helicobacter Pylori)
+15242,2020-07-03,1100015242,123456715242,José,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+6670,2020-03-08,1100006670,12345676670,Fernando,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+11040,2020-07-03,1100011040,123456711040,João,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+7704,2020-10-28,1100007704,12345677704,Pedro,40901106,Ecodopplercardiograma Transtorácico
+11768,2020-04-29,1100011768,123456711768,Lucas,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+10030,2020-11-29,1100010030,123456710030,Fernando,40808041,Mamografia Digital Bilateral
+13919,2020-03-02,1100013919,123456713919,Isabela,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+4193,2020-08-05,1100004193,12345674193,Patrícia,41101537,Angio-Rm Arterial de Crânio
+3824,2020-07-10,1100003824,12345673824,Pedro,40901122,Abdome Total (Inclui Pelve)
+9409,2020-05-04,1100009409,12345679409,Juliana,40901114,Mamas
+13479,2020-07-13,1100013479,123456713479,Isabela,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+14693,2020-08-02,1100014693,123456714693,Patrícia,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+8026,2020-08-14,1100008026,12345678026,Carlos,40901106,Ecodopplercardiograma Transtorácico
+12815,2020-12-06,1100012815,123456712815,Camila,41001079,Tc - Tórax
+5996,2020-10-24,1100005996,12345675996,Rodrigo,41101014,Crânio (Encéfalo)
+4024,2020-11-15,1100004024,12345674024,Pedro,40901122,Abdome Total (Inclui Pelve)
+15527,2020-01-24,1100015527,123456715527,Paula,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+14432,2020-06-28,1100014432,123456714432,Rafael,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+1300,2020-03-14,1100001300,12345671300,João,40803074,Articulação Escapuloumeral (Ombro)
+11798,2020-11-30,1100011798,123456711798,Gustavo,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+13889,2020-09-23,1100013889,123456713889,Juliana,40101045,Teste Ergométrico Convencional - 3 Ou Mais Derivações Simultâneas (Inclui Ecg Basal Convencional)
+4036,2020-04-24,1100004036,12345674036,Rodrigo,40901122,Abdome Total (Inclui Pelve)
+688,2020-10-22,1100000688,12345670688,Lucas,41001230,Angiotomografia coronariana
+3610,2020-03-23,1100003610,12345673610,Fernando,40901122,Abdome Total (Inclui Pelve)
+3206,2020-08-10,1100003206,12345673206,Carlos,40901122,Abdome Total (Inclui Pelve)
+14001,2020-06-30,1100014001,123456714001,Maria,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+7859,2020-08-25,1100007859,12345677859,Isabela,40901106,Ecodopplercardiograma Transtorácico
+10048,2020-07-10,1100010048,123456710048,Lucas,40808041,Mamografia Digital Bilateral
+4484,2020-03-28,1100004484,12345674484,Pedro,41101316,Articular (Por Articulação)
+10345,2020-01-04,1100010345,123456710345,Mariana,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+14719,2020-09-03,1100014719,123456714719,Isabela,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+1096,2020-10-21,1100001096,12345671096,Rodrigo,40601293,Procedimento Diagnóstico Por Captura Híbrida
+9660,2020-08-14,1100009660,12345679660,João,40901114,Mamas
+8910,2020-04-15,1100008910,12345678910,Fernando,40901114,Mamas
+13884,2020-04-19,1100013884,123456713884,Pedro,40101045,Teste Ergométrico Convencional - 3 Ou Mais Derivações Simultâneas (Inclui Ecg Basal Convencional)
+14312,2020-10-04,1100014312,123456714312,Rafael,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+253,2020-09-10,1100000253,12345670253,Patrícia,40601129,Procedimento Diagnóstico Citopatológico Oncótico De Líquidos E Raspados Cutâneos
+8052,2020-03-17,1100008052,12345678052,Rafael,40901106,Ecodopplercardiograma Transtorácico
+12348,2020-09-05,1100012348,123456712348,Lucas,40601013,Procedimento Diagnóstico Peroperatório Sem Deslocamento Do Patologista
+3249,2020-11-24,1100003249,12345673249,Juliana,40901122,Abdome Total (Inclui Pelve)
+2254,2020-07-18,1100002254,12345672254,Vinícius,40901181,"Abdome Inferior Feminino (Bexiga, Útero, Ovário E Anexos)"
+6251,2020-06-11,1100006251,12345676251,Cristina,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+8952,2020-03-12,1100008952,12345678952,Rafael,40901114,Mamas
+8307,2020-03-15,1100008307,12345678307,Paula,40202615,Endoscopia Digestiva Alta Com Biópsia E Teste De Urease (Pesquisa Helicobacter Pylori)
+2352,2020-03-03,1100002352,12345672352,Rafael,40808033,Mamografia Convencional Bilateral
+1618,2020-02-20,1100001618,12345671618,Gustavo,40804097,Pé Ou Pododáctilo
+13112,2020-12-29,1100013112,123456713112,Rafael,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+2234,2020-06-20,1100002234,12345672234,Vinícius,40901181,"Abdome Inferior Feminino (Bexiga, Útero, Ovário E Anexos)"
+10750,2020-10-21,1100010750,123456710750,Fernando,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+2566,2020-10-20,1100002566,12345672566,Carlos,41101170,"Abdome Superior (Fígado, Pâncreas, Baço, Rins, Supra-Renais, Retroperitônio)"
+8225,2020-08-26,1100008225,12345678225,Mariana,40901106,Ecodopplercardiograma Transtorácico
+5842,2020-04-01,1100005842,12345675842,José,41101014,Crânio (Encéfalo)
+1782,2020-11-10,1100001782,12345671782,José,41001222,Tc Para Pet Dedicado Oncológico
+1544,2020-07-30,1100001544,12345671544,Pedro,40803139,Mãos E Punhos Para Idade Óssea
+10790,2020-06-03,1100010790,123456710790,Fernando,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+5093,2020-09-10,1100005093,12345675093,Patrícia,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+9937,2020-06-08,1100009937,12345679937,Tatiana,40808041,Mamografia Digital Bilateral
+15034,2020-04-25,1100015034,123456715034,Vinícius,40805026,Tórax - 2 Incidências
+14341,2020-10-02,1100014341,123456714341,Maria,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+3973,2020-07-17,1100003973,12345673973,Patrícia,40901122,Abdome Total (Inclui Pelve)
+13883,2020-01-24,1100013883,123456713883,Ana,40101045,Teste Ergométrico Convencional - 3 Ou Mais Derivações Simultâneas (Inclui Ecg Basal Convencional)
+383,2020-04-06,1100000383,12345670383,Ana,40601129,Procedimento Diagnóstico Citopatológico Oncótico De Líquidos E Raspados Cutâneos
+15127,2020-09-15,1100015127,123456715127,Paula,40901750,US - Próstata (via abdominal)
+1227,2020-10-15,1100001227,12345671227,Paula,40803104,Antebraço
+14348,2020-11-11,1100014348,123456714348,Lucas,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+5898,2020-03-24,1100005898,12345675898,Gustavo,41101014,Crânio (Encéfalo)
+6480,2020-09-02,1100006480,12345676480,João,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+5656,2020-02-25,1100005656,12345675656,Rodrigo,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+10695,2020-08-29,1100010695,123456710695,Camila,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+7899,2020-04-20,1100007899,12345677899,Isabela,40901106,Ecodopplercardiograma Transtorácico
+5942,2020-09-13,1100005942,12345675942,José,41101014,Crânio (Encéfalo)
+7959,2020-05-26,1100007959,12345677959,Isabela,40901106,Ecodopplercardiograma Transtorácico
+1775,2020-10-04,1100001775,12345671775,Camila,41001036,Tc - Face Ou Seios Da Face
+1051,2020-06-21,1100001051,12345671051,Cristina,33010048,U.S. Articulações
+4645,2020-12-02,1100004645,12345674645,Mariana,41101316,Articular (Por Articulação)
+4501,2020-10-05,1100004501,12345674501,Maria,41101316,Articular (Por Articulação)
+13500,2020-08-27,1100013500,123456713500,João,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+10144,2020-11-28,1100010144,123456710144,Pedro,40808041,Mamografia Digital Bilateral
+7362,2020-08-12,1100007362,12345677362,José,40101010,Ecg Convencional De Até 12 Derivações
+9972,2020-05-01,1100009972,12345679972,Rafael,40808041,Mamografia Digital Bilateral
+12072,2020-12-27,1100012072,123456712072,Rafael,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+12799,2020-02-25,1100012799,123456712799,Isabela,41001079,Tc - Tórax
+6573,2020-07-26,1100006573,12345676573,Patrícia,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+7640,2020-05-29,1100007640,12345677640,João,40901106,Ecodopplercardiograma Transtorácico
+13463,2020-09-27,1100013463,123456713463,Ana,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+9093,2020-03-20,1100009093,12345679093,Patrícia,40901114,Mamas
+9595,2020-08-17,1100009595,12345679595,Camila,40901114,Mamas
+14473,2020-12-11,1100014473,123456714473,Patrícia,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+5658,2020-12-10,1100005658,12345675658,Gustavo,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+6703,2020-10-07,1100006703,12345676703,Ana,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+7767,2020-05-22,1100007767,12345677767,Paula,40901106,Ecodopplercardiograma Transtorácico
+1332,2020-02-09,1100001332,12345671332,Rafael,40804097,Pé Ou Pododáctilo
+8031,2020-12-27,1100008031,12345678031,Cristina,40901106,Ecodopplercardiograma Transtorácico
+8797,2020-03-03,1100008797,12345678797,Tatiana,40901114,Mamas
+5072,2020-01-13,1100005072,12345675072,Rafael,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+7243,2020-08-10,1100007243,12345677243,Ana,40101010,Ecg Convencional De Até 12 Derivações
+14177,2020-08-28,1100014177,123456714177,Tatiana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+5052,2020-12-13,1100005052,12345675052,Rafael,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+5922,2020-07-08,1100005922,12345675922,José,41101014,Crânio (Encéfalo)
+9532,2020-06-30,1100009532,12345679532,Rafael,40901114,Mamas
+13498,2020-06-17,1100013498,123456713498,Gustavo,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+1582,2020-08-24,1100001582,12345671582,José,40802019,Coluna Cervical - 3 Incidências
+7809,2020-05-04,1100007809,12345677809,Juliana,40901106,Ecodopplercardiograma Transtorácico
+2805,2020-08-29,1100002805,12345672805,Mariana,40901122,Abdome Total (Inclui Pelve)
+11007,2020-06-29,1100011007,123456711007,Paula,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+10062,2020-05-22,1100010062,123456710062,José,40808041,Mamografia Digital Bilateral
+14043,2020-01-13,1100014043,123456714043,Ana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+14656,2020-09-05,1100014656,123456714656,Rodrigo,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+1242,2020-06-29,1100001242,12345671242,José,40804097,Pé Ou Pododáctilo
+8377,2020-02-21,1100008377,12345678377,Tatiana,40202615,Endoscopia Digestiva Alta Com Biópsia E Teste De Urease (Pesquisa Helicobacter Pylori)
+8473,2020-07-26,1100008473,12345678473,Patrícia,40901211,Estruturas Superficiais (Cervical Ou Axilas Ou Músculo Ou Tendão)
+9891,2020-07-17,1100009891,12345679891,Cristina,40808041,Mamografia Digital Bilateral
+5526,2020-07-05,1100005526,12345675526,Carlos,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+4716,2020-12-04,1100004716,12345674716,Rodrigo,41101316,Articular (Por Articulação)
+346,2020-05-08,1100000346,12345670346,Carlos,40103102,Audiometria Vocal - Pesquisa De Limiar De Inteligibilidade
+386,2020-10-15,1100000386,12345670386,Carlos,40601129,Procedimento Diagnóstico Citopatológico Oncótico De Líquidos E Raspados Cutâneos
+10957,2020-02-02,1100010957,123456710957,Tatiana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+14674,2020-08-20,1100014674,123456714674,Vinícius,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+6443,2020-02-27,1100006443,12345676443,Ana,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+5044,2020-10-25,1100005044,12345675044,Pedro,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+11251,2020-12-11,1100011251,123456711251,Cristina,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+9347,2020-01-31,1100009347,12345679347,Paula,40901114,Mamas
+5390,2020-04-17,1100005390,12345675390,Fernando,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+3502,2020-01-16,1100003502,12345673502,José,40901122,Abdome Total (Inclui Pelve)
+686,2020-02-21,1100000686,12345670686,Carlos,20010141,Ecocardiograma Bidimensional Com Mapeamento De Fluxo À Cores
+11313,2020-07-29,1100011313,123456711313,Patrícia,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+3099,2020-02-26,1100003099,12345673099,Isabela,40901122,Abdome Total (Inclui Pelve)
+13043,2020-12-04,1100013043,123456713043,Ana,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+4619,2020-12-05,1100004619,12345674619,Isabela,41101316,Articular (Por Articulação)
+7463,2020-12-06,1100007463,12345677463,Ana,40901106,Ecodopplercardiograma Transtorácico
+9348,2020-09-12,1100009348,12345679348,Lucas,40901114,Mamas
+11425,2020-01-16,1100011425,123456711425,Mariana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+13880,2020-12-14,1100013880,123456713880,João,40101045,Teste Ergométrico Convencional - 3 Ou Mais Derivações Simultâneas (Inclui Ecg Basal Convencional)
+2353,2020-03-25,1100002353,12345672353,Patrícia,40808033,Mamografia Convencional Bilateral
+4128,2020-05-12,1100004128,12345674128,Lucas,41101537,Angio-Rm Arterial de Crânio
+3237,2020-07-18,1100003237,12345673237,Tatiana,40901122,Abdome Total (Inclui Pelve)
+9698,2020-03-05,1100009698,12345679698,Gustavo,40901114,Mamas
+2860,2020-01-08,1100002860,12345672860,João,40901122,Abdome Total (Inclui Pelve)
+4054,2020-05-01,1100004054,12345674054,Vinícius,40901122,Abdome Total (Inclui Pelve)
+10406,2020-04-16,1100010406,123456710406,Carlos,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+7290,2020-08-27,1100007290,12345677290,Fernando,40101010,Ecg Convencional De Até 12 Derivações
+13487,2020-03-11,1100013487,123456713487,Paula,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+5014,2020-12-17,1100005014,12345675014,Vinícius,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+13333,2020-01-18,1100013333,123456713333,Patrícia,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+12253,2020-06-25,1100012253,123456712253,Patrícia,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+1953,2020-02-19,1100001953,12345671953,Patrícia,41101308,Pé (Antepé) - Não Inclui Tornozelo
+3811,2020-07-16,1100003811,12345673811,Cristina,40901122,Abdome Total (Inclui Pelve)
+10400,2020-01-02,1100010400,123456710400,João,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+5120,2020-02-18,1100005120,12345675120,João,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+944,2020-05-25,1100000944,12345670944,Pedro,40601293,Procedimento Diagnóstico Por Captura Híbrida
+8460,2020-09-24,1100008460,12345678460,João,40901211,Estruturas Superficiais (Cervical Ou Axilas Ou Músculo Ou Tendão)
+841,2020-12-20,1100000841,12345670841,Maria,33020019,U.S. Obstétrico Com Doppler
+13300,2020-12-19,1100013300,123456713300,João,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+10151,2020-10-25,1100010151,123456710151,Cristina,40808041,Mamografia Digital Bilateral
+5414,2020-12-18,1100005414,12345675414,Vinícius,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+7813,2020-06-16,1100007813,12345677813,Patrícia,40901106,Ecodopplercardiograma Transtorácico
+4788,2020-11-15,1100004788,12345674788,Lucas,40901220,Articular (Por Articulação)
+157,2020-10-08,1100000157,12345670157,Tatiana,40103439,Impedanciometria
+8045,2020-03-11,1100008045,12345678045,Mariana,40901106,Ecodopplercardiograma Transtorácico
+1542,2020-03-04,1100001542,12345671542,José,40803139,Mãos E Punhos Para Idade Óssea
+8938,2020-06-17,1100008938,12345678938,Gustavo,40901114,Mamas
+5927,2020-09-14,1100005927,12345675927,Paula,41101014,Crânio (Encéfalo)
+1410,2020-07-26,1100001410,12345671410,Fernando,40801128,Adenóides Ou Cavum
+4640,2020-11-29,1100004640,12345674640,João,41101316,Articular (Por Articulação)
+7766,2020-07-07,1100007766,12345677766,Carlos,40901106,Ecodopplercardiograma Transtorácico
+14204,2020-09-26,1100014204,123456714204,Pedro,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+1929,2020-04-12,1100001929,12345671929,Juliana,41001370,Angiotomografia Arterial De Crânio
+15036,2020-12-03,1100015036,123456715036,Rodrigo,40805026,Tórax - 2 Incidências
+13805,2020-04-05,1100013805,123456713805,Mariana,40101045,Teste Ergométrico Convencional - 3 Ou Mais Derivações Simultâneas (Inclui Ecg Basal Convencional)
+14155,2020-08-20,1100014155,123456714155,Camila,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+2371,2020-11-09,1100002371,12345672371,Cristina,41101359,Hidro-Rm (Colângio-Rm Ou Uro-Rm Ou Mielo-Rm Ou Sialo-Rm Ou Cistografia Por Rm)
+12907,2020-03-03,1100012907,123456712907,Paula,41001079,Tc - Tórax
+4182,2020-06-28,1100004182,12345674182,José,41101537,Angio-Rm Arterial de Crânio
+3286,2020-12-07,1100003286,12345673286,Carlos,40901122,Abdome Total (Inclui Pelve)
+4430,2020-03-08,1100004430,12345674430,Fernando,41101316,Articular (Por Articulação)
+14181,2020-04-26,1100014181,123456714181,Maria,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+3373,2020-01-21,1100003373,12345673373,Patrícia,40901122,Abdome Total (Inclui Pelve)
+3760,2020-10-05,1100003760,12345673760,João,40901122,Abdome Total (Inclui Pelve)
+15228,2020-06-10,1100015228,123456715228,Lucas,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+14937,2020-01-19,1100014937,123456714937,Tatiana,40805026,Tórax - 2 Incidências
+1390,2020-08-15,1100001390,12345671390,Fernando,40802094,Coluna Total Para Escoliose (Telespondilografia)
+2490,2020-02-20,1100002490,12345672490,Fernando,40901467,Doppler Colorido Venoso De Membro Superior - Unilateral
+653,2020-04-01,1100000653,12345670653,Patrícia,56010265,Ultra - Som  Abdomen Total  (Rins E Bexiga)
+7098,2020-01-27,1100007098,12345677098,Gustavo,40101010,Ecg Convencional De Até 12 Derivações
+676,2020-08-24,1100000676,12345670676,Rodrigo,20010141,Ecocardiograma Bidimensional Com Mapeamento De Fluxo À Cores
+11433,2020-10-02,1100011433,123456711433,Patrícia,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+15273,2020-05-01,1100015273,123456715273,Patrícia,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+6842,2020-12-31,1100006842,12345676842,José,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+13661,2020-01-20,1100013661,123456713661,Maria,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+1361,2020-11-14,1100001361,12345671361,Maria,40804054,Joelho
+4500,2020-07-15,1100004500,12345674500,João,41101316,Articular (Por Articulação)
+4111,2020-09-12,1100004111,12345674111,Cristina,41101537,Angio-Rm Arterial de Crânio
+3381,2020-08-07,1100003381,12345673381,Maria,40901122,Abdome Total (Inclui Pelve)
+448,2020-05-20,1100000448,12345670448,Lucas,40201236,Vídeo-Laringo-Estroboscopia Com Endoscópio Flexível
+10213,2020-01-21,1100010213,123456710213,Patrícia,40808041,Mamografia Digital Bilateral
+10126,2020-04-23,1100010126,123456710126,Carlos,40808041,Mamografia Digital Bilateral
+12872,2020-03-27,1100012872,123456712872,Rafael,41001079,Tc - Tórax
+14379,2020-12-30,1100014379,123456714379,Isabela,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+8869,2020-05-08,1100008869,12345678869,Juliana,40901114,Mamas
+13471,2020-04-01,1100013471,123456713471,Cristina,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+12664,2020-03-15,1100012664,123456712664,Pedro,41001079,Tc - Tórax
+13472,2020-06-05,1100013472,123456713472,Rafael,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+2866,2020-02-26,1100002866,12345672866,Carlos,40901122,Abdome Total (Inclui Pelve)
+11101,2020-03-20,1100011101,123456711101,Maria,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+8713,2020-10-28,1100008713,12345678713,Patrícia,20102020,Holter De 24 Horas - 3 Canais - Digital
+4308,2020-08-27,1100004308,12345674308,Lucas,40901769,"Aparelho Urinário  (Rins, Ureteres E Bexiga )"
+12491,2020-03-09,1100012491,123456712491,Cristina,40105075,Prova De Função Pulmonar Completa (Ou Espirometria)
+12772,2020-01-17,1100012772,123456712772,Rafael,41001079,Tc - Tórax
+73,2020-07-30,1100000073,12345670073,Patrícia,40103099,Audiometria Vocal - Pesquisa De Limiar De Discriminação
+2179,2020-02-04,1100002179,12345672179,Isabela,40901297,Obstétrica 1º Trimestre (Endovaginal)
+6061,2020-10-25,1100006061,12345676061,Maria,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+4285,2020-12-21,1100004285,12345674285,Mariana,40901769,"Aparelho Urinário  (Rins, Ureteres E Bexiga )"
+4443,2020-01-19,1100004443,12345674443,Ana,41101316,Articular (Por Articulação)
+14831,2020-01-28,1100014831,123456714831,Cristina,40805018,Tórax - 1 Incidência
+4618,2020-03-12,1100004618,12345674618,Gustavo,41101316,Articular (Por Articulação)
+5995,2020-11-15,1100005995,12345675995,Camila,41101014,Crânio (Encéfalo)
+6736,2020-10-25,1100006736,12345676736,Rodrigo,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+9637,2020-10-25,1100009637,12345679637,Tatiana,40901114,Mamas
+11003,2020-10-02,1100011003,123456711003,Ana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+11834,2020-10-27,1100011834,123456711834,Vinícius,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+14663,2020-12-08,1100014663,123456714663,Ana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+7061,2020-05-24,1100007061,12345677061,Maria,40101010,Ecg Convencional De Até 12 Derivações
+606,2020-11-15,1100000606,12345670606,Carlos,51010410,Vídeo - Endoscopia Naso - Sinusal Com Ótica Rígida Ou Flexível
+6706,2020-08-26,1100006706,12345676706,Carlos,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+15007,2020-11-16,1100015007,123456715007,Paula,40805026,Tórax - 2 Incidências
+10307,2020-11-29,1100010307,123456710307,Paula,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+7901,2020-01-21,1100007901,12345677901,Maria,40901106,Ecodopplercardiograma Transtorácico
+1470,2020-01-23,1100001470,12345671470,Fernando,40803112,Punho
+7532,2020-05-13,1100007532,12345677532,Rafael,40901106,Ecodopplercardiograma Transtorácico
+3802,2020-04-18,1100003802,12345673802,José,40901122,Abdome Total (Inclui Pelve)
+13140,2020-04-18,1100013140,123456713140,João,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+4340,2020-03-23,1100004340,12345674340,João,41101316,Articular (Por Articulação)
+11000,2020-09-18,1100011000,123456711000,João,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+6746,2020-06-14,1100006746,12345676746,Carlos,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+6169,2020-10-05,1100006169,12345676169,Juliana,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+7510,2020-08-23,1100007510,12345677510,Fernando,40901106,Ecodopplercardiograma Transtorácico
+10800,2020-08-15,1100010800,123456710800,João,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+645,2020-08-09,1100000645,12345670645,Mariana,56010265,Ultra - Som  Abdomen Total  (Rins E Bexiga)
+7495,2020-01-21,1100007495,12345677495,Camila,40901106,Ecodopplercardiograma Transtorácico
+7825,2020-01-28,1100007825,12345677825,Mariana,40901106,Ecodopplercardiograma Transtorácico
+5614,2020-05-04,1100005614,12345675614,Vinícius,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+5531,2020-06-05,1100005531,12345675531,Cristina,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+2389,2020-09-17,1100002389,12345672389,Juliana,40901076,Ecodopplercardiograma Com Estresse Farmacológico
+728,2020-08-03,1100000728,12345670728,Lucas,48856,Rm de Crânio
+14926,2020-09-02,1100014926,123456714926,Carlos,40805026,Tórax - 2 Incidências
+3839,2020-09-08,1100003839,12345673839,Isabela,40901122,Abdome Total (Inclui Pelve)
+12780,2020-02-14,1100012780,123456712780,João,41001079,Tc - Tórax
+116,2020-04-21,1100000116,12345670116,Rodrigo,40103102,Audiometria Vocal - Pesquisa De Limiar De Inteligibilidade
+3986,2020-10-16,1100003986,12345673986,Carlos,40901122,Abdome Total (Inclui Pelve)
+9501,2020-11-21,1100009501,12345679501,Maria,40901114,Mamas
+3740,2020-12-13,1100003740,12345673740,João,40901122,Abdome Total (Inclui Pelve)
+13789,2020-05-04,1100013789,123456713789,Juliana,40101045,Teste Ergométrico Convencional - 3 Ou Mais Derivações Simultâneas (Inclui Ecg Basal Convencional)
+3852,2020-12-13,1100003852,12345673852,Rafael,40901122,Abdome Total (Inclui Pelve)
+2551,2020-10-13,1100002551,12345672551,Cristina,41101170,"Abdome Superior (Fígado, Pâncreas, Baço, Rins, Supra-Renais, Retroperitônio)"
+11925,2020-12-16,1100011925,123456711925,Mariana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+3279,2020-10-17,1100003279,12345673279,Isabela,40901122,Abdome Total (Inclui Pelve)
+6818,2020-09-01,1100006818,12345676818,Gustavo,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+1540,2020-11-06,1100001540,12345671540,João,40803139,Mãos E Punhos Para Idade Óssea
+7150,2020-10-22,1100007150,12345677150,Fernando,40101010,Ecg Convencional De Até 12 Derivações
+8544,2020-03-29,1100008544,12345678544,Pedro,20102020,Holter De 24 Horas - 3 Canais - Digital
+14154,2020-10-21,1100014154,123456714154,Vinícius,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+10997,2020-03-04,1100010997,123456710997,Tatiana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+485,2020-03-15,1100000485,12345670485,Mariana,33010404,"Doppler Convencional Dos Vasos Do Pescoço (CaroTidas, Vertebrais E"
+8921,2020-01-14,1100008921,12345678921,Maria,40901114,Mamas
+12637,2020-04-08,1100012637,123456712637,Tatiana,40105075,Prova De Função Pulmonar Completa (Ou Espirometria)
+1058,2020-01-27,1100001058,12345671058,Gustavo,40103315,Eletroneuromiografia De Mmii
+5980,2020-08-15,1100005980,12345675980,João,41101014,Crânio (Encéfalo)
+14097,2020-06-20,1100014097,123456714097,Tatiana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+52,2020-03-10,1100000052,12345670052,Rafael,40103102,Audiometria Vocal - Pesquisa De Limiar De Inteligibilidade
+4358,2020-12-18,1100004358,12345674358,Gustavo,41101316,Articular (Por Articulação)
+7303,2020-12-12,1100007303,12345677303,Ana,40101010,Ecg Convencional De Até 12 Derivações
+10316,2020-06-16,1100010316,123456710316,Rodrigo,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+11670,2020-03-13,1100011670,123456711670,Fernando,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+76,2020-01-01,1100000076,12345670076,Rodrigo,40103439,Impedanciometria
+8051,2020-08-08,1100008051,12345678051,Cristina,40901106,Ecodopplercardiograma Transtorácico
+7697,2020-12-26,1100007697,12345677697,Tatiana,40901106,Ecodopplercardiograma Transtorácico
+4907,2020-04-10,1100004907,12345674907,Paula,17111013,Colonoscopia
+5263,2020-08-05,1100005263,12345675263,Ana,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+14961,2020-02-28,1100014961,123456714961,Maria,40805026,Tórax - 2 Incidências
+13047,2020-02-05,1100013047,123456713047,Paula,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+6055,2020-06-27,1100006055,12345676055,Camila,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+11301,2020-04-23,1100011301,123456711301,Maria,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+4048,2020-11-05,1100004048,12345674048,Lucas,40901122,Abdome Total (Inclui Pelve)
+9425,2020-09-24,1100009425,12345679425,Mariana,40901114,Mamas
+8059,2020-01-16,1100008059,12345678059,Isabela,40901106,Ecodopplercardiograma Transtorácico
+7395,2020-03-14,1100007395,12345677395,Camila,40101010,Ecg Convencional De Até 12 Derivações
+5824,2020-06-27,1100005824,12345675824,Pedro,41101014,Crânio (Encéfalo)
+10352,2020-06-21,1100010352,123456710352,Rafael,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+6861,2020-04-22,1100006861,12345676861,Maria,40101010,Ecg Convencional De Até 12 Derivações
+5253,2020-06-23,1100005253,12345675253,Patrícia,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+10568,2020-10-19,1100010568,123456710568,Lucas,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+4106,2020-08-23,1100004106,12345674106,Carlos,41101537,Angio-Rm Arterial de Crânio
+5552,2020-05-29,1100005552,12345675552,Rafael,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+7744,2020-10-19,1100007744,12345677744,Pedro,40901106,Ecodopplercardiograma Transtorácico
+15410,2020-01-09,1100015410,123456715410,Fernando,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+3389,2020-11-23,1100003389,12345673389,Juliana,40901122,Abdome Total (Inclui Pelve)
+2540,2020-09-16,1100002540,12345672540,João,41101170,"Abdome Superior (Fígado, Pâncreas, Baço, Rins, Supra-Renais, Retroperitônio)"
+6817,2020-08-16,1100006817,12345676817,Tatiana,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+3514,2020-10-20,1100003514,12345673514,Vinícius,40901122,Abdome Total (Inclui Pelve)
+9128,2020-10-16,1100009128,12345679128,Lucas,40901114,Mamas
+13311,2020-09-07,1100013311,123456713311,Cristina,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+2225,2020-10-19,1100002225,12345672225,Mariana,40901181,"Abdome Inferior Feminino (Bexiga, Útero, Ovário E Anexos)"
+14133,2020-07-01,1100014133,123456714133,Patrícia,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+972,2020-03-04,1100000972,12345670972,Rafael,29020085,Espirometria Após Broncodilatador
+3137,2020-10-04,1100003137,12345673137,Tatiana,40901122,Abdome Total (Inclui Pelve)
+5153,2020-01-17,1100005153,12345675153,Patrícia,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+9174,2020-02-08,1100009174,12345679174,Vinícius,40901114,Mamas
+7861,2020-02-28,1100007861,12345677861,Maria,40901106,Ecodopplercardiograma Transtorácico
+8413,2020-07-07,1100008413,12345678413,Patrícia,40901211,Estruturas Superficiais (Cervical Ou Axilas Ou Músculo Ou Tendão)
+13847,2020-03-08,1100013847,123456713847,Paula,40101045,Teste Ergométrico Convencional - 3 Ou Mais Derivações Simultâneas (Inclui Ecg Basal Convencional)
+367,2020-09-09,1100000367,12345670367,Paula,40601129,Procedimento Diagnóstico Citopatológico Oncótico De Líquidos E Raspados Cutâneos
+1768,2020-06-18,1100001768,12345671768,Lucas,41001036,Tc - Face Ou Seios Da Face
+8379,2020-07-13,1100008379,12345678379,Isabela,40202615,Endoscopia Digestiva Alta Com Biópsia E Teste De Urease (Pesquisa Helicobacter Pylori)
+4776,2020-05-15,1100004776,12345674776,Rodrigo,40901220,Articular (Por Articulação)
+10537,2020-10-22,1100010537,123456710537,Tatiana,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+8072,2020-01-07,1100008072,12345678072,Rafael,40901106,Ecodopplercardiograma Transtorácico
+14744,2020-09-09,1100014744,123456714744,Pedro,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+8724,2020-01-04,1100008724,12345678724,Pedro,20102020,Holter De 24 Horas - 3 Canais - Digital
+9542,2020-07-26,1100009542,12345679542,José,40901114,Mamas
+6719,2020-05-24,1100006719,12345676719,Isabela,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+12256,2020-03-27,1100012256,123456712256,Rodrigo,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+11926,2020-06-08,1100011926,123456711926,Carlos,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+2161,2020-07-10,1100002161,12345672161,Maria,40901157,"Aparelho Urinário Feminino (Rins, Ureteres E Bexiga)"
+11911,2020-07-24,1100011911,123456711911,Cristina,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+9372,2020-09-09,1100009372,12345679372,Rafael,40901114,Mamas
+14061,2020-05-07,1100014061,123456714061,Maria,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+14819,2020-07-31,1100014819,123456714819,Isabela,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+13629,2020-02-13,1100013629,123456713629,Juliana,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+9407,2020-12-06,1100009407,12345679407,Paula,40901114,Mamas
+1318,2020-01-13,1100001318,12345671318,Gustavo,40804097,Pé Ou Pododáctilo
+8344,2020-11-12,1100008344,12345678344,Pedro,40202615,Endoscopia Digestiva Alta Com Biópsia E Teste De Urease (Pesquisa Helicobacter Pylori)
+7842,2020-03-25,1100007842,12345677842,José,40901106,Ecodopplercardiograma Transtorácico
+15260,2020-12-02,1100015260,123456715260,João,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+5385,2020-08-23,1100005385,12345675385,Mariana,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+1341,2020-05-16,1100001341,12345671341,Maria,40804127,Panorâmica Dos Membros Inferiores
+12952,2020-02-02,1100012952,123456712952,Rafael,41001079,Tc - Tórax
+12226,2020-06-28,1100012226,123456712226,Carlos,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+8814,2020-12-08,1100008814,12345678814,Vinícius,40901114,Mamas
+7452,2020-08-03,1100007452,12345677452,Rafael,40901106,Ecodopplercardiograma Transtorácico
+6934,2020-03-20,1100006934,12345676934,Vinícius,40101010,Ecg Convencional De Até 12 Derivações
+12263,2020-03-21,1100012263,123456712263,Ana,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+9453,2020-04-08,1100009453,12345679453,Patrícia,40901114,Mamas
+5944,2020-08-29,1100005944,12345675944,Pedro,41101014,Crânio (Encéfalo)
+5260,2020-12-07,1100005260,12345675260,João,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+8168,2020-01-23,1100008168,12345678168,Lucas,40901106,Ecodopplercardiograma Transtorácico
+9250,2020-11-05,1100009250,12345679250,Fernando,40901114,Mamas
+8623,2020-02-13,1100008623,12345678623,Ana,20102020,Holter De 24 Horas - 3 Canais - Digital
+8167,2020-01-28,1100008167,12345678167,Paula,40901106,Ecodopplercardiograma Transtorácico
+11373,2020-04-14,1100011373,123456711373,Patrícia,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+4876,2020-03-20,1100004876,12345674876,Rodrigo,40901220,Articular (Por Articulação)
+1133,2020-02-07,1100001133,12345671133,Patrícia,40803090,Cotovelo
+6200,2020-12-31,1100006200,12345676200,João,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+14757,2020-01-25,1100014757,123456714757,Tatiana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+14630,2020-10-28,1100014630,123456714630,Fernando,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+11791,2020-06-11,1100011791,123456711791,Cristina,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+4161,2020-03-19,1100004161,12345674161,Maria,41101537,Angio-Rm Arterial de Crânio
+1283,2020-05-26,1100001283,12345671283,Ana,40802094,Coluna Total Para Escoliose (Telespondilografia)
+10395,2020-09-29,1100010395,123456710395,Camila,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+10708,2020-02-29,1100010708,123456710708,Lucas,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+8958,2020-02-14,1100008958,12345678958,Gustavo,40901114,Mamas
+749,2020-07-29,1100000749,12345670749,Juliana,33010145,U.S. Pélvica Transvaginal
+8830,2020-08-29,1100008830,12345678830,Fernando,40901114,Mamas
+14803,2020-05-22,1100014803,123456714803,Ana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+5238,2020-11-28,1100005238,12345675238,Gustavo,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+4954,2020-03-31,1100004954,12345674954,Vinícius,19093012,Colonoscopia
+7069,2020-05-01,1100007069,12345677069,Juliana,40101010,Ecg Convencional De Até 12 Derivações
+6970,2020-12-31,1100006970,12345676970,Fernando,40101010,Ecg Convencional De Até 12 Derivações
+13469,2020-11-05,1100013469,123456713469,Juliana,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+5467,2020-12-26,1100005467,12345675467,Paula,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+11924,2020-03-27,1100011924,123456711924,Pedro,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+13046,2020-11-21,1100013046,123456713046,Carlos,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+7037,2020-02-26,1100007037,12345677037,Tatiana,40101010,Ecg Convencional De Até 12 Derivações
+7275,2020-05-01,1100007275,12345677275,Camila,40101010,Ecg Convencional De Até 12 Derivações
+15485,2020-08-20,1100015485,123456715485,Mariana,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+13967,2020-10-13,1100013967,123456713967,Paula,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+4331,2020-06-13,1100004331,12345674331,Cristina,40901769,"Aparelho Urinário  (Rins, Ureteres E Bexiga )"
+8917,2020-11-02,1100008917,12345678917,Tatiana,40901114,Mamas
+8232,2020-04-22,1100008232,12345678232,Rafael,40901106,Ecodopplercardiograma Transtorácico
+4252,2020-06-17,1100004252,12345674252,Rafael,40901769,"Aparelho Urinário  (Rins, Ureteres E Bexiga )"
+5594,2020-10-01,1100005594,12345675594,Vinícius,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+11357,2020-07-19,1100011357,123456711357,Tatiana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+7633,2020-06-15,1100007633,12345677633,Patrícia,40901106,Ecodopplercardiograma Transtorácico
+2715,2020-09-29,1100002715,12345672715,Camila,40901130,"Abdome Superior (Fígado, Vias Biliares, Vesícula, Pâncreas, Baço)"
+14821,2020-07-27,1100014821,123456714821,Maria,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+5099,2020-10-20,1100005099,12345675099,Isabela,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+11016,2020-01-31,1100011016,123456711016,Rodrigo,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+802,2020-09-22,1100000802,12345670802,José,33020019,U.S. Obstétrico Com Doppler
+8102,2020-04-12,1100008102,12345678102,José,40901106,Ecodopplercardiograma Transtorácico
+6510,2020-05-29,1100006510,12345676510,Fernando,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+13888,2020-08-11,1100013888,123456713888,Lucas,40101045,Teste Ergométrico Convencional - 3 Ou Mais Derivações Simultâneas (Inclui Ecg Basal Convencional)
+12300,2020-09-22,1100012300,123456712300,João,40601013,Procedimento Diagnóstico Peroperatório Sem Deslocamento Do Patologista
+2617,2020-03-18,1100002617,12345672617,Tatiana,41101170,"Abdome Superior (Fígado, Pâncreas, Baço, Rins, Supra-Renais, Retroperitônio)"
+361,2020-06-03,1100000361,12345670361,Maria,40601129,Procedimento Diagnóstico Citopatológico Oncótico De Líquidos E Raspados Cutâneos
+13562,2020-01-30,1100013562,123456713562,José,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+15517,2020-08-28,1100015517,123456715517,Tatiana,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+14921,2020-10-01,1100014921,123456714921,Maria,40805018,Tórax - 1 Incidência
+12716,2020-07-06,1100012716,123456712716,Rodrigo,41001079,Tc - Tórax
+11991,2020-02-23,1100011991,123456711991,Cristina,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+7119,2020-04-11,1100007119,12345677119,Isabela,40101010,Ecg Convencional De Até 12 Derivações
+1896,2020-08-20,1100001896,12345671896,Rodrigo,41001370,Angiotomografia Arterial De Crânio
+12837,2020-12-21,1100012837,123456712837,Tatiana,41001079,Tc - Tórax
+6422,2020-06-13,1100006422,12345676422,José,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+515,2020-10-09,1100000515,12345670515,Camila,40901696,Ecodopplercardiograma Com Estresse Físico
+11408,2020-07-10,1100011408,123456711408,Lucas,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+10835,2020-08-15,1100010835,123456710835,Camila,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+4434,2020-03-16,1100004434,12345674434,Vinícius,41101316,Articular (Por Articulação)
+5504,2020-11-07,1100005504,12345675504,Pedro,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+9101,2020-07-01,1100009101,12345679101,Maria,40901114,Mamas
+2859,2020-11-21,1100002859,12345672859,Isabela,40901122,Abdome Total (Inclui Pelve)
+14158,2020-10-29,1100014158,123456714158,Gustavo,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+9500,2020-01-17,1100009500,12345679500,João,40901114,Mamas
+2439,2020-07-07,1100002439,12345672439,Isabela,40901092,Ecodopplercardiograma Transesofágico (Inclui Transtorácico)
+5630,2020-02-29,1100005630,12345675630,Fernando,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+5025,2020-11-17,1100005025,12345675025,Mariana,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+3419,2020-09-07,1100003419,12345673419,Isabela,40901122,Abdome Total (Inclui Pelve)
+2521,2020-01-22,1100002521,12345672521,Maria,40808122,Densitometria Óssea (Um Segmento)
+13630,2020-03-16,1100013630,123456713630,Fernando,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+11389,2020-01-11,1100011389,123456711389,Juliana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+13648,2020-08-20,1100013648,123456713648,Lucas,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+13752,2020-03-12,1100013752,123456713752,Rafael,40101045,Teste Ergométrico Convencional - 3 Ou Mais Derivações Simultâneas (Inclui Ecg Basal Convencional)
+4135,2020-10-01,1100004135,12345674135,Camila,41101537,Angio-Rm Arterial de Crânio
+13063,2020-10-27,1100013063,123456713063,Ana,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+3615,2020-03-01,1100003615,12345673615,Camila,40901122,Abdome Total (Inclui Pelve)
+9790,2020-02-05,1100009790,12345679790,Fernando,40808041,Mamografia Digital Bilateral
+15160,2020-08-29,1100015160,123456715160,João,40901750,US - Próstata (via abdominal)
+6044,2020-05-16,1100006044,12345676044,Pedro,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+8364,2020-08-02,1100008364,12345678364,Pedro,40202615,Endoscopia Digestiva Alta Com Biópsia E Teste De Urease (Pesquisa Helicobacter Pylori)
+11877,2020-06-22,1100011877,123456711877,Tatiana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+2284,2020-08-26,1100002284,12345672284,Pedro,40901181,"Abdome Inferior Feminino (Bexiga, Útero, Ovário E Anexos)"
+12325,2020-05-02,1100012325,123456712325,Mariana,40601013,Procedimento Diagnóstico Peroperatório Sem Deslocamento Do Patologista
+9383,2020-10-31,1100009383,12345679383,Ana,40901114,Mamas
+11683,2020-05-16,1100011683,123456711683,Ana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+1258,2020-04-05,1100001258,12345671258,Gustavo,40804070,Perna
+7405,2020-05-27,1100007405,12345677405,Mariana,40901106,Ecodopplercardiograma Transtorácico
+7288,2020-07-01,1100007288,12345677288,Lucas,40101010,Ecg Convencional De Até 12 Derivações
+4222,2020-09-01,1100004222,12345674222,José,41101537,Angio-Rm Arterial de Crânio
+82,2020-07-21,1100000082,12345670082,José,40103072,Audiometria Tonal Limiar Com Testes De Discriminação
+10861,2020-11-26,1100010861,123456710861,Maria,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+13780,2020-03-23,1100013780,123456713780,João,40101045,Teste Ergométrico Convencional - 3 Ou Mais Derivações Simultâneas (Inclui Ecg Basal Convencional)
+6487,2020-01-30,1100006487,12345676487,Paula,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+2269,2020-09-09,1100002269,12345672269,Juliana,40901181,"Abdome Inferior Feminino (Bexiga, Útero, Ovário E Anexos)"
+6924,2020-07-20,1100006924,12345676924,Pedro,40101010,Ecg Convencional De Até 12 Derivações
+7837,2020-10-20,1100007837,12345677837,Tatiana,40901106,Ecodopplercardiograma Transtorácico
+6473,2020-12-06,1100006473,12345676473,Patrícia,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+11524,2020-05-01,1100011524,123456711524,Pedro,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+12455,2020-02-03,1100012455,123456712455,Camila,40105075,Prova De Função Pulmonar Completa (Ou Espirometria)
+12228,2020-05-30,1100012228,123456712228,Lucas,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+9502,2020-07-27,1100009502,12345679502,José,40901114,Mamas
+7501,2020-09-05,1100007501,12345677501,Maria,40901106,Ecodopplercardiograma Transtorácico
+12423,2020-10-19,1100012423,123456712423,Ana,40105075,Prova De Função Pulmonar Completa (Ou Espirometria)
+7791,2020-01-05,1100007791,12345677791,Cristina,40901106,Ecodopplercardiograma Transtorácico
+12239,2020-01-24,1100012239,123456712239,Isabela,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+11179,2020-10-20,1100011179,123456711179,Isabela,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+2510,2020-09-18,1100002510,12345672510,Fernando,40901394,Doppler Colorido De Aorta E Artérias Renais
+7254,2020-10-27,1100007254,12345677254,Vinícius,40101010,Ecg Convencional De Até 12 Derivações
+4904,2020-11-16,1100004904,12345674904,Pedro,17111013,Colonoscopia
+4219,2020-09-16,1100004219,12345674219,Isabela,41101537,Angio-Rm Arterial de Crânio
+5516,2020-12-13,1100005516,12345675516,Rodrigo,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+13793,2020-01-31,1100013793,123456713793,Patrícia,40101045,Teste Ergométrico Convencional - 3 Ou Mais Derivações Simultâneas (Inclui Ecg Basal Convencional)
+3518,2020-04-17,1100003518,12345673518,Gustavo,40901122,Abdome Total (Inclui Pelve)
+2127,2020-12-14,1100002127,12345672127,Paula,40901157,"Aparelho Urinário Feminino (Rins, Ureteres E Bexiga)"
+6712,2020-05-18,1100006712,12345676712,Rafael,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+15540,2020-12-11,1100015540,123456715540,João,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+689,2020-06-11,1100000689,12345670689,Juliana,41001230,Angiotomografia coronariana
+7755,2020-03-29,1100007755,12345677755,Camila,40901106,Ecodopplercardiograma Transtorácico
+5889,2020-12-07,1100005889,12345675889,Juliana,41101014,Crânio (Encéfalo)
+4918,2020-04-05,1100004918,12345674918,Gustavo,19093012,Colonoscopia
+9695,2020-07-19,1100009695,12345679695,Camila,40901114,Mamas
+3799,2020-08-20,1100003799,12345673799,Isabela,40901122,Abdome Total (Inclui Pelve)
+307,2020-05-17,1100000307,12345670307,Paula,40103323,Eletroneuromiografia De Mmss
+10405,2020-04-12,1100010405,123456710405,Mariana,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+15111,2020-09-03,1100015111,123456715111,Cristina,40901750,US - Próstata (via abdominal)
+2278,2020-03-13,1100002278,12345672278,Gustavo,40901181,"Abdome Inferior Feminino (Bexiga, Útero, Ovário E Anexos)"
+2106,2020-02-09,1100002106,12345672106,Carlos,40901173,"Abdome Inferior Masculino (Bexiga, Próstata E Vesículas Seminais)"
+7294,2020-03-05,1100007294,12345677294,Vinícius,40101010,Ecg Convencional De Até 12 Derivações
+4609,2020-02-24,1100004609,12345674609,Juliana,41101316,Articular (Por Articulação)
+13533,2020-11-25,1100013533,123456713533,Patrícia,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+15051,2020-06-02,1100015051,123456715051,Cristina,40805026,Tórax - 2 Incidências
+4187,2020-11-07,1100004187,12345674187,Paula,41101537,Angio-Rm Arterial de Crânio
+6545,2020-03-05,1100006545,12345676545,Mariana,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+14781,2020-12-22,1100014781,123456714781,Maria,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+7284,2020-01-09,1100007284,12345677284,Pedro,40101010,Ecg Convencional De Até 12 Derivações
+3961,2020-01-07,1100003961,12345673961,Maria,40901122,Abdome Total (Inclui Pelve)
+1578,2020-04-28,1100001578,12345671578,Gustavo,40804089,Articulação Tibiotársica (Tornozelo)
+4663,2020-08-11,1100004663,12345674663,Ana,41101316,Articular (Por Articulação)
+15561,2020-08-25,1100015561,123456715561,Maria,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+8211,2020-02-16,1100008211,12345678211,Cristina,40901106,Ecodopplercardiograma Transtorácico
+2174,2020-09-23,1100002174,12345672174,Vinícius,40901165,"Aparelho Urinário Masculino (Rins, Ureteres, Bexiga E Próstata)"
+10837,2020-03-26,1100010837,123456710837,Tatiana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+2072,2020-10-23,1100002072,12345672072,Rafael,41101545,Angio-RM venosa de Crânio
+8756,2020-08-10,1100008756,12345678756,Rodrigo,40901114,Mamas
+8125,2020-04-13,1100008125,12345678125,Mariana,40901106,Ecodopplercardiograma Transtorácico
+11682,2020-02-10,1100011682,123456711682,José,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+9358,2020-10-01,1100009358,12345679358,Gustavo,40901114,Mamas
+4855,2020-05-23,1100004855,12345674855,Camila,40901220,Articular (Por Articulação)
+12559,2020-01-26,1100012559,123456712559,Isabela,40105075,Prova De Função Pulmonar Completa (Ou Espirometria)
+3830,2020-08-26,1100003830,12345673830,Fernando,40901122,Abdome Total (Inclui Pelve)
+10335,2020-07-10,1100010335,123456710335,Camila,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+2764,2020-02-16,1100002764,12345672764,Pedro,40901130,"Abdome Superior (Fígado, Vias Biliares, Vesícula, Pâncreas, Baço)"
+1889,2020-12-28,1100001889,12345671889,Juliana,41001125,Tc - Coluna Cervical Ou Dorsal Ou Lombar (Até 3 Segmentos)
+5057,2020-03-14,1100005057,12345675057,Tatiana,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+13216,2020-08-28,1100013216,123456713216,Rodrigo,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+30,2020-12-07,1100000030,12345670030,Fernando,40103099,Audiometria Vocal - Pesquisa De Limiar De Discriminação
+13449,2020-01-01,1100013449,123456713449,Juliana,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+514,2020-07-15,1100000514,12345670514,Vinícius,40901696,Ecodopplercardiograma Com Estresse Físico
+8130,2020-06-10,1100008130,12345678130,Fernando,40901106,Ecodopplercardiograma Transtorácico
+11720,2020-10-07,1100011720,123456711720,João,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+11509,2020-04-08,1100011509,123456711509,Juliana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+15091,2020-09-05,1100015091,123456715091,Cristina,40901750,US - Próstata (via abdominal)
+11247,2020-02-29,1100011247,123456711247,Paula,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+5070,2020-04-08,1100005070,12345675070,Fernando,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+15528,2020-09-28,1100015528,123456715528,Lucas,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+14221,2020-11-02,1100014221,123456714221,Maria,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+7260,2020-12-12,1100007260,12345677260,João,40101010,Ecg Convencional De Até 12 Derivações
+15117,2020-07-06,1100015117,123456715117,Tatiana,40901750,US - Próstata (via abdominal)
+2829,2020-08-27,1100002829,12345672829,Juliana,40901122,Abdome Total (Inclui Pelve)
+14883,2020-11-16,1100014883,123456714883,Ana,40805018,Tórax - 1 Incidência
+622,2020-02-01,1100000622,12345670622,José,33010129,U.S. Órgãos E Estruturas Superficiais
+6787,2020-10-04,1100006787,12345676787,Paula,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+10240,2020-09-21,1100010240,123456710240,João,40808041,Mamografia Digital Bilateral
+2088,2020-05-27,1100002088,12345672088,Lucas,40901165,"Aparelho Urinário Masculino (Rins, Ureteres, Bexiga E Próstata)"
+10752,2020-07-19,1100010752,123456710752,Rafael,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+2383,2020-12-19,1100002383,12345672383,Ana,40901076,Ecodopplercardiograma Com Estresse Farmacológico
+3632,2020-09-30,1100003632,12345673632,Rafael,40901122,Abdome Total (Inclui Pelve)
+422,2020-01-24,1100000422,12345670422,José,56010265,Ultra - Som  Abdomen Total  (Rins E Bexiga)
+3534,2020-12-24,1100003534,12345673534,Vinícius,40901122,Abdome Total (Inclui Pelve)
+1327,2020-06-20,1100001327,12345671327,Paula,40804011,Bacia
+14261,2020-02-06,1100014261,123456714261,Maria,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+5374,2020-05-07,1100005374,12345675374,Vinícius,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+11574,2020-03-30,1100011574,123456711574,Vinícius,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+8441,2020-08-04,1100008441,12345678441,Maria,40901211,Estruturas Superficiais (Cervical Ou Axilas Ou Músculo Ou Tendão)
+10618,2020-12-23,1100010618,123456710618,Gustavo,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+1573,2020-06-04,1100001573,12345671573,Patrícia,40803139,Mãos E Punhos Para Idade Óssea
+5028,2020-06-06,1100005028,12345675028,Lucas,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+11821,2020-10-25,1100011821,123456711821,Maria,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+6254,2020-02-11,1100006254,12345676254,Vinícius,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+10843,2020-02-14,1100010843,123456710843,Ana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+7198,2020-12-24,1100007198,12345677198,Gustavo,40101010,Ecg Convencional De Até 12 Derivações
+4958,2020-10-20,1100004958,12345674958,Gustavo,19093012,Colonoscopia
+11371,2020-09-10,1100011371,123456711371,Cristina,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+5673,2020-07-23,1100005673,12345675673,Patrícia,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+6963,2020-08-22,1100006963,12345676963,Ana,40101010,Ecg Convencional De Até 12 Derivações
+5151,2020-05-21,1100005151,12345675151,Cristina,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+12288,2020-10-08,1100012288,123456712288,Lucas,40601013,Procedimento Diagnóstico Peroperatório Sem Deslocamento Do Patologista
+4406,2020-05-02,1100004406,12345674406,Carlos,41101316,Articular (Por Articulação)
+1683,2020-05-01,1100001683,12345671683,Ana,40804011,Bacia
+4098,2020-01-10,1100004098,12345674098,Gustavo,41101537,Angio-Rm Arterial de Crânio
+10452,2020-04-16,1100010452,123456710452,Rafael,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+6327,2020-12-12,1100006327,12345676327,Paula,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+5102,2020-02-20,1100005102,12345675102,José,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+6332,2020-03-16,1100006332,12345676332,Rafael,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+1320,2020-04-22,1100001320,12345671320,João,40804038,Articulação Coxofemoral (Quadril)
+8340,2020-03-08,1100008340,12345678340,João,40202615,Endoscopia Digestiva Alta Com Biópsia E Teste De Urease (Pesquisa Helicobacter Pylori)
+1943,2020-12-29,1100001943,12345671943,Ana,41101308,Pé (Antepé) - Não Inclui Tornozelo
+2222,2020-12-19,1100002222,12345672222,José,40901181,"Abdome Inferior Feminino (Bexiga, Útero, Ovário E Anexos)"
+3079,2020-03-08,1100003079,12345673079,Isabela,40901122,Abdome Total (Inclui Pelve)
+12141,2020-09-22,1100012141,123456712141,Maria,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+15397,2020-12-04,1100015397,123456715397,Tatiana,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+5885,2020-05-30,1100005885,12345675885,Mariana,41101014,Crânio (Encéfalo)
+4991,2020-04-25,1100004991,12345674991,Cristina,19093012,Colonoscopia
+6269,2020-08-26,1100006269,12345676269,Juliana,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+10853,2020-03-27,1100010853,123456710853,Patrícia,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+4102,2020-12-06,1100004102,12345674102,José,41101537,Angio-Rm Arterial de Crânio
+731,2020-05-12,1100000731,12345670731,Cristina,45552,Tc De Tórax
+6503,2020-05-08,1100006503,12345676503,Ana,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+1921,2020-08-29,1100001921,12345671921,Maria,41001036,Tc - Face Ou Seios Da Face
+9780,2020-05-21,1100009780,12345679780,João,40808041,Mamografia Digital Bilateral
+14335,2020-02-22,1100014335,123456714335,Camila,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+11885,2020-12-26,1100011885,123456711885,Mariana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+10105,2020-06-10,1100010105,123456710105,Mariana,40808041,Mamografia Digital Bilateral
+2686,2020-10-31,1100002686,12345672686,Carlos,40901130,"Abdome Superior (Fígado, Vias Biliares, Vesícula, Pâncreas, Baço)"
+5643,2020-11-20,1100005643,12345675643,Ana,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+11663,2020-05-04,1100011663,123456711663,Ana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+11920,2020-08-11,1100011920,123456711920,João,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+2614,2020-02-13,1100002614,12345672614,Vinícius,41101170,"Abdome Superior (Fígado, Pâncreas, Baço, Rins, Supra-Renais, Retroperitônio)"
+11424,2020-12-04,1100011424,123456711424,Pedro,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+4053,2020-05-08,1100004053,12345674053,Patrícia,40901122,Abdome Total (Inclui Pelve)
+14882,2020-09-26,1100014882,123456714882,José,40805018,Tórax - 1 Incidência
+5786,2020-01-16,1100005786,12345675786,Carlos,41101014,Crânio (Encéfalo)
+6290,2020-05-15,1100006290,12345676290,Fernando,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+9859,2020-08-02,1100009859,12345679859,Isabela,40808041,Mamografia Digital Bilateral
+919,2020-06-10,1100000919,12345670919,Isabela,33010145,U.S. Pélvica Transvaginal
+7200,2020-05-26,1100007200,12345677200,João,40101010,Ecg Convencional De Até 12 Derivações
+6540,2020-02-12,1100006540,12345676540,João,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+6372,2020-10-08,1100006372,12345676372,Rafael,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+2256,2020-03-12,1100002256,12345672256,Rodrigo,40901181,"Abdome Inferior Feminino (Bexiga, Útero, Ovário E Anexos)"
+11302,2020-04-01,1100011302,123456711302,José,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+14197,2020-09-19,1100014197,123456714197,Tatiana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+2879,2020-03-31,1100002879,12345672879,Isabela,40901122,Abdome Total (Inclui Pelve)
+7507,2020-04-18,1100007507,12345677507,Paula,40901106,Ecodopplercardiograma Transtorácico
+15,2020-07-14,1100000015,12345670015,Camila,20102011,Holter De 24 Horas - 2 Ou Mais Canais - Analógico
+1786,2020-12-10,1100001786,12345671786,Carlos,41001117,Tc - Pelve Ou Bacia
+2044,2020-04-26,1100002044,12345672044,Pedro,41101308,Pé (Antepé) - Não Inclui Tornozelo
+8488,2020-01-13,1100008488,12345678488,Lucas,40901211,Estruturas Superficiais (Cervical Ou Axilas Ou Músculo Ou Tendão)
+7086,2020-11-30,1100007086,12345677086,Carlos,40101010,Ecg Convencional De Até 12 Derivações
+15492,2020-05-17,1100015492,123456715492,Rafael,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+1352,2020-07-19,1100001352,12345671352,Rafael,40804127,Panorâmica Dos Membros Inferiores
+5335,2020-05-10,1100005335,12345675335,Camila,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+7258,2020-03-17,1100007258,12345677258,Gustavo,40101010,Ecg Convencional De Até 12 Derivações
+5195,2020-01-26,1100005195,12345675195,Camila,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+1806,2020-08-21,1100001806,12345671806,Carlos,41001117,Tc - Pelve Ou Bacia
+11435,2020-05-31,1100011435,123456711435,Camila,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+12721,2020-04-14,1100012721,123456712721,Maria,41001079,Tc - Tórax
+1393,2020-03-05,1100001393,12345671393,Patrícia,40804089,Articulação Tibiotársica (Tornozelo)
+9000,2020-08-10,1100009000,12345679000,João,40901114,Mamas
+6389,2020-09-19,1100006389,12345676389,Juliana,40901360,Doppler Colorido De Vasos Cervicais Arteriais Bilateral (Carótidas E Vertebrais)
+14839,2020-11-08,1100014839,123456714839,Isabela,40805018,Tórax - 1 Incidência
+12285,2020-11-21,1100012285,123456712285,Mariana,40601013,Procedimento Diagnóstico Peroperatório Sem Deslocamento Do Patologista
+5353,2020-02-23,1100005353,12345675353,Patrícia,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+10136,2020-01-26,1100010136,123456710136,Rodrigo,40808041,Mamografia Digital Bilateral
+13024,2020-03-05,1100013024,123456713024,Pedro,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+201,2020-06-15,1100000201,12345670201,Maria,40103439,Impedanciometria
+8845,2020-04-15,1100008845,12345678845,Mariana,40901114,Mamas
+4486,2020-04-22,1100004486,12345674486,Carlos,41101316,Articular (Por Articulação)
+12402,2020-10-13,1100012402,123456712402,José,40601013,Procedimento Diagnóstico Peroperatório Sem Deslocamento Do Patologista
+3437,2020-08-05,1100003437,12345673437,Tatiana,40901122,Abdome Total (Inclui Pelve)
+7142,2020-01-12,1100007142,12345677142,José,40101010,Ecg Convencional De Até 12 Derivações
+845,2020-12-12,1100000845,12345670845,Mariana,33020019,U.S. Obstétrico Com Doppler
+5329,2020-06-24,1100005329,12345675329,Juliana,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+10053,2020-06-20,1100010053,123456710053,Patrícia,40808041,Mamografia Digital Bilateral
+3911,2020-06-15,1100003911,12345673911,Cristina,40901122,Abdome Total (Inclui Pelve)
+6596,2020-07-08,1100006596,12345676596,Rodrigo,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+1043,2020-02-22,1100001043,12345671043,Ana,40201120,Endoscopia Digestiva Alta
+9215,2020-02-22,1100009215,12345679215,Camila,40901114,Mamas
+14714,2020-08-10,1100014714,123456714714,Vinícius,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+6591,2020-01-17,1100006591,12345676591,Cristina,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+9479,2020-10-04,1100009479,12345679479,Isabela,40901114,Mamas
+12027,2020-07-12,1100012027,123456712027,Paula,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+6902,2020-07-21,1100006902,12345676902,José,40101010,Ecg Convencional De Até 12 Derivações
+9033,2020-11-30,1100009033,12345679033,Patrícia,40901114,Mamas
+7392,2020-08-20,1100007392,12345677392,Rafael,40101010,Ecg Convencional De Até 12 Derivações
+7786,2020-08-06,1100007786,12345677786,Carlos,40901106,Ecodopplercardiograma Transtorácico
+12930,2020-01-27,1100012930,123456712930,Fernando,41001079,Tc - Tórax
+12879,2020-08-18,1100012879,123456712879,Isabela,41001079,Tc - Tórax
+7373,2020-09-24,1100007373,12345677373,Patrícia,40101010,Ecg Convencional De Até 12 Derivações
+11986,2020-11-02,1100011986,123456711986,Carlos,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+12524,2020-04-17,1100012524,123456712524,Pedro,40105075,Prova De Função Pulmonar Completa (Ou Espirometria)
+8815,2020-06-04,1100008815,12345678815,Camila,40901114,Mamas
+785,2020-11-20,1100000785,12345670785,Mariana,40601293,Procedimento Diagnóstico Por Captura Híbrida
+9207,2020-05-12,1100009207,12345679207,Paula,40901114,Mamas
+12771,2020-08-22,1100012771,123456712771,Cristina,41001079,Tc - Tórax
+13930,2020-11-15,1100013930,123456713930,Fernando,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+7433,2020-08-10,1100007433,12345677433,Patrícia,40901106,Ecodopplercardiograma Transtorácico
+5497,2020-08-22,1100005497,12345675497,Tatiana,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+3773,2020-06-23,1100003773,12345673773,Patrícia,40901122,Abdome Total (Inclui Pelve)
+5401,2020-05-06,1100005401,12345675401,Maria,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+15241,2020-07-25,1100015241,123456715241,Maria,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+3697,2020-03-23,1100003697,12345673697,Tatiana,40901122,Abdome Total (Inclui Pelve)
+251,2020-07-04,1100000251,12345670251,Cristina,20102011,Holter De 24 Horas - 2 Ou Mais Canais - Analógico
+191,2020-11-24,1100000191,12345670191,Cristina,40103099,Audiometria Vocal - Pesquisa De Limiar De Discriminação
+12101,2020-05-17,1100012101,123456712101,Maria,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+11116,2020-11-02,1100011116,123456711116,Rodrigo,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+14214,2020-01-05,1100014214,123456714214,Vinícius,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+9313,2020-09-28,1100009313,12345679313,Patrícia,40901114,Mamas
+7103,2020-03-24,1100007103,12345677103,Ana,40101010,Ecg Convencional De Até 12 Derivações
+12773,2020-10-09,1100012773,123456712773,Patrícia,41001079,Tc - Tórax
+1231,2020-11-13,1100001231,12345671231,Cristina,40804070,Perna
+14151,2020-01-30,1100014151,123456714151,Cristina,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+13280,2020-08-08,1100013280,123456713280,João,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+8446,2020-07-23,1100008446,12345678446,Carlos,40901211,Estruturas Superficiais (Cervical Ou Axilas Ou Músculo Ou Tendão)
+2602,2020-10-02,1100002602,12345672602,José,41101170,"Abdome Superior (Fígado, Pâncreas, Baço, Rins, Supra-Renais, Retroperitônio)"
+3368,2020-10-20,1100003368,12345673368,Lucas,40901122,Abdome Total (Inclui Pelve)
+14412,2020-04-21,1100014412,123456714412,Rafael,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+1281,2020-09-30,1100001281,12345671281,Maria,40802094,Coluna Total Para Escoliose (Telespondilografia)
+1753,2020-04-27,1100001753,12345671753,Patrícia,41001036,Tc - Face Ou Seios Da Face
+459,2020-02-25,1100000459,12345670459,Isabela,33010404,"Doppler Convencional Dos Vasos Do Pescoço (CaroTidas, Vertebrais E"
+8295,2020-02-12,1100008295,12345678295,Camila,40202615,Endoscopia Digestiva Alta Com Biópsia E Teste De Urease (Pesquisa Helicobacter Pylori)
+9327,2020-05-11,1100009327,12345679327,Paula,40901114,Mamas
+1369,2020-06-18,1100001369,12345671369,Juliana,40803090,Cotovelo
+300,2020-05-20,1100000300,12345670300,João,40103323,Eletroneuromiografia De Mmss
+11561,2020-03-30,1100011561,123456711561,Maria,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+588,2020-04-20,1100000588,12345670588,Lucas,40201120,Endoscopia Digestiva Alta
+7635,2020-10-07,1100007635,12345677635,Camila,40901106,Ecodopplercardiograma Transtorácico
+13564,2020-01-30,1100013564,123456713564,Pedro,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+13979,2020-12-02,1100013979,123456713979,Isabela,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+10557,2020-08-21,1100010557,123456710557,Tatiana,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+3692,2020-12-28,1100003692,12345673692,Rafael,40901122,Abdome Total (Inclui Pelve)
+756,2020-11-10,1100000756,12345670756,Rodrigo,41301340,Urodinâmica Completa
+10594,2020-12-19,1100010594,123456710594,Vinícius,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+9994,2020-06-06,1100009994,12345679994,Vinícius,40808041,Mamografia Digital Bilateral
+10598,2020-07-05,1100010598,123456710598,Gustavo,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+4244,2020-12-19,1100004244,12345674244,Pedro,40901769,"Aparelho Urinário  (Rins, Ureteres E Bexiga )"
+9282,2020-09-27,1100009282,12345679282,José,40901114,Mamas
+14302,2020-10-25,1100014302,123456714302,José,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+10170,2020-03-24,1100010170,123456710170,Fernando,40808041,Mamografia Digital Bilateral
+8909,2020-12-27,1100008909,12345678909,Juliana,40901114,Mamas
+2767,2020-08-23,1100002767,12345672767,Paula,40901130,"Abdome Superior (Fígado, Vias Biliares, Vesícula, Pâncreas, Baço)"
+6724,2020-07-05,1100006724,12345676724,Pedro,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+3543,2020-01-02,1100003543,12345673543,Ana,40901122,Abdome Total (Inclui Pelve)
+13510,2020-03-22,1100013510,123456713510,Fernando,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+14552,2020-12-30,1100014552,123456714552,Rafael,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+11927,2020-11-07,1100011927,123456711927,Paula,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+11595,2020-09-17,1100011595,123456711595,Camila,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+14104,2020-10-08,1100014104,123456714104,Pedro,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+4243,2020-08-19,1100004243,12345674243,Ana,40901769,"Aparelho Urinário  (Rins, Ureteres E Bexiga )"
+1069,2020-02-10,1100001069,12345671069,Juliana,40202488,Nasofibrolaringoscopia Para Dignóstico E/Ou Biópsia
+5947,2020-04-10,1100005947,12345675947,Paula,41101014,Crânio (Encéfalo)
+81,2020-10-16,1100000081,12345670081,Maria,40103102,Audiometria Vocal - Pesquisa De Limiar De Inteligibilidade
+1915,2020-08-11,1100001915,12345671915,Camila,41001010,Tc- Crânio Ou Sela Túrsica Ou Órbitas
+12313,2020-06-18,1100012313,123456712313,Patrícia,40601013,Procedimento Diagnóstico Peroperatório Sem Deslocamento Do Patologista
+886,2020-05-20,1100000886,12345670886,Carlos,41301374,Vulvoscopia (Vulva E Períneo)
+6187,2020-06-30,1100006187,12345676187,Paula,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+11359,2020-12-21,1100011359,123456711359,Isabela,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+7829,2020-02-11,1100007829,12345677829,Juliana,40901106,Ecodopplercardiograma Transtorácico
+2432,2020-06-24,1100002432,12345672432,Rafael,40901238,Obstétrica
+2350,2020-02-17,1100002350,12345672350,Fernando,40808033,Mamografia Convencional Bilateral
+14563,2020-02-21,1100014563,123456714563,Ana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+8269,2020-01-17,1100008269,12345678269,Juliana,40901106,Ecodopplercardiograma Transtorácico
+2596,2020-07-02,1100002596,12345672596,Rodrigo,41101170,"Abdome Superior (Fígado, Pâncreas, Baço, Rins, Supra-Renais, Retroperitônio)"
+12394,2020-10-01,1100012394,123456712394,Vinícius,40601013,Procedimento Diagnóstico Peroperatório Sem Deslocamento Do Patologista
+7165,2020-05-18,1100007165,12345677165,Mariana,40101010,Ecg Convencional De Até 12 Derivações
+6722,2020-02-03,1100006722,12345676722,José,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+9365,2020-01-01,1100009365,12345679365,Mariana,40901114,Mamas
+957,2020-07-15,1100000957,12345670957,Tatiana,40201120,Endoscopia Digestiva Alta
+6194,2020-08-24,1100006194,12345676194,Vinícius,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+13226,2020-11-03,1100013226,123456713226,Carlos,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+6579,2020-04-06,1100006579,12345676579,Isabela,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+8525,2020-09-07,1100008525,12345678525,Mariana,40901211,Estruturas Superficiais (Cervical Ou Axilas Ou Músculo Ou Tendão)
+5372,2020-05-19,1100005372,12345675372,Rafael,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+4164,2020-03-05,1100004164,12345674164,Pedro,41101537,Angio-Rm Arterial de Crânio
+7873,2020-08-03,1100007873,12345677873,Patrícia,40901106,Ecodopplercardiograma Transtorácico
+15171,2020-09-29,1100015171,123456715171,Cristina,40901750,US - Próstata (via abdominal)
+7439,2020-10-06,1100007439,12345677439,Isabela,40901106,Ecodopplercardiograma Transtorácico
+8543,2020-09-13,1100008543,12345678543,Ana,20102020,Holter De 24 Horas - 3 Canais - Digital
+4398,2020-08-15,1100004398,12345674398,Gustavo,41101316,Articular (Por Articulação)
+3934,2020-03-04,1100003934,12345673934,Vinícius,40901122,Abdome Total (Inclui Pelve)
+5160,2020-01-17,1100005160,12345675160,João,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+7889,2020-02-13,1100007889,12345677889,Juliana,40901106,Ecodopplercardiograma Transtorácico
+1912,2020-02-22,1100001912,12345671912,Rafael,41001010,Tc- Crânio Ou Sela Túrsica Ou Órbitas
+15484,2020-02-27,1100015484,123456715484,Pedro,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+4853,2020-03-04,1100004853,12345674853,Patrícia,40901220,Articular (Por Articulação)
+14773,2020-11-14,1100014773,123456714773,Patrícia,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+14161,2020-01-06,1100014161,123456714161,Maria,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+687,2020-07-26,1100000687,12345670687,Paula,33010021,U.S. Abdômen Total 
+502,2020-08-22,1100000502,12345670502,José,33010404,"Doppler Convencional Dos Vasos Do Pescoço (CaroTidas, Vertebrais E"
+5027,2020-01-09,1100005027,12345675027,Paula,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+10023,2020-11-13,1100010023,123456710023,Ana,40808041,Mamografia Digital Bilateral
+7985,2020-04-01,1100007985,12345677985,Mariana,40901106,Ecodopplercardiograma Transtorácico
+15441,2020-07-21,1100015441,123456715441,Maria,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+15458,2020-04-14,1100015458,123456715458,Gustavo,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+3325,2020-08-30,1100003325,12345673325,Mariana,40901122,Abdome Total (Inclui Pelve)
+7768,2020-12-06,1100007768,12345677768,Lucas,40901106,Ecodopplercardiograma Transtorácico
+12052,2020-09-20,1100012052,123456712052,Rafael,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+2724,2020-08-29,1100002724,12345672724,Pedro,40901130,"Abdome Superior (Fígado, Vias Biliares, Vesícula, Pâncreas, Baço)"
+4836,2020-11-20,1100004836,12345674836,Rodrigo,40901220,Articular (Por Articulação)
+1147,2020-08-21,1100001147,12345671147,Paula,40804097,Pé Ou Pododáctilo
+8213,2020-12-03,1100008213,12345678213,Patrícia,40901106,Ecodopplercardiograma Transtorácico
+7045,2020-03-09,1100007045,12345677045,Mariana,40101010,Ecg Convencional De Até 12 Derivações
+8719,2020-06-19,1100008719,12345678719,Isabela,20102020,Holter De 24 Horas - 3 Canais - Digital
+4410,2020-12-05,1100004410,12345674410,Fernando,41101316,Articular (Por Articulação)
+14424,2020-05-26,1100014424,123456714424,Pedro,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+2559,2020-10-26,1100002559,12345672559,Isabela,41101170,"Abdome Superior (Fígado, Pâncreas, Baço, Rins, Supra-Renais, Retroperitônio)"
+1898,2020-07-26,1100001898,12345671898,Gustavo,41001010,Tc- Crânio Ou Sela Túrsica Ou Órbitas
+875,2020-02-07,1100000875,12345670875,Camila,41301374,Vulvoscopia (Vulva E Períneo)
+4374,2020-12-29,1100004374,12345674374,Vinícius,41101316,Articular (Por Articulação)
+2730,2020-09-28,1100002730,12345672730,Fernando,40901130,"Abdome Superior (Fígado, Vias Biliares, Vesícula, Pâncreas, Baço)"
+3250,2020-11-06,1100003250,12345673250,Fernando,40901122,Abdome Total (Inclui Pelve)
+24,2020-02-13,1100000024,12345670024,Pedro,20102011,Holter De 24 Horas - 2 Ou Mais Canais - Analógico
+7223,2020-01-01,1100007223,12345677223,Ana,40101010,Ecg Convencional De Até 12 Derivações
+8357,2020-07-29,1100008357,12345678357,Tatiana,40202615,Endoscopia Digestiva Alta Com Biópsia E Teste De Urease (Pesquisa Helicobacter Pylori)
+13682,2020-11-03,1100013682,123456713682,José,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+4990,2020-04-02,1100004990,12345674990,Fernando,17111013,Colonoscopia
+9806,2020-01-24,1100009806,12345679806,Carlos,40808041,Mamografia Digital Bilateral
+11762,2020-04-17,1100011762,123456711762,José,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+13509,2020-11-16,1100013509,123456713509,Juliana,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+1789,2020-12-21,1100001789,12345671789,Juliana,41001010,Tc- Crânio Ou Sela Túrsica Ou Órbitas
+14044,2020-11-05,1100014044,123456714044,Pedro,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+5825,2020-11-17,1100005825,12345675825,Mariana,41101014,Crânio (Encéfalo)
+3946,2020-12-26,1100003946,12345673946,Carlos,40901122,Abdome Total (Inclui Pelve)
+12916,2020-04-28,1100012916,123456712916,Rodrigo,41001079,Tc - Tórax
+12058,2020-06-27,1100012058,123456712058,Gustavo,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+14350,2020-10-31,1100014350,123456714350,Fernando,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+4469,2020-02-17,1100004469,12345674469,Juliana,41101316,Articular (Por Articulação)
+11421,2020-06-23,1100011421,123456711421,Maria,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+8944,2020-05-28,1100008944,12345678944,Pedro,40901114,Mamas
+668,2020-04-07,1100000668,12345670668,Lucas,33010013,U.S. Abdômen Superior 
+10021,2020-04-29,1100010021,123456710021,Maria,40808041,Mamografia Digital Bilateral
+11938,2020-10-07,1100011938,123456711938,Gustavo,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+7003,2020-09-25,1100007003,12345677003,Ana,40101010,Ecg Convencional De Até 12 Derivações
+7875,2020-07-19,1100007875,12345677875,Camila,40901106,Ecodopplercardiograma Transtorácico
+3515,2020-01-20,1100003515,12345673515,Camila,40901122,Abdome Total (Inclui Pelve)
+14904,2020-01-12,1100014904,123456714904,Pedro,40805018,Tórax - 1 Incidência
+14059,2020-03-27,1100014059,123456714059,Isabela,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+8048,2020-12-24,1100008048,12345678048,Lucas,40901106,Ecodopplercardiograma Transtorácico
+15389,2020-11-24,1100015389,123456715389,Juliana,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+4775,2020-05-14,1100004775,12345674775,Camila,40901220,Articular (Por Articulação)
+2047,2020-12-10,1100002047,12345672047,Paula,41101260,Mão (Não Inclui Punho)
+7285,2020-03-29,1100007285,12345677285,Mariana,40101010,Ecg Convencional De Até 12 Derivações
+12892,2020-12-29,1100012892,123456712892,Rafael,41001079,Tc - Tórax
+12037,2020-01-12,1100012037,123456712037,Tatiana,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+4436,2020-05-01,1100004436,12345674436,Rodrigo,41101316,Articular (Por Articulação)
+9252,2020-11-17,1100009252,12345679252,Rafael,40901114,Mamas
+7080,2020-06-21,1100007080,12345677080,João,40101010,Ecg Convencional De Até 12 Derivações
+11893,2020-04-01,1100011893,123456711893,Patrícia,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+2366,2020-03-04,1100002366,12345672366,Carlos,41101359,Hidro-Rm (Colângio-Rm Ou Uro-Rm Ou Mielo-Rm Ou Sialo-Rm Ou Cistografia Por Rm)
+7891,2020-07-20,1100007891,12345677891,Cristina,40901106,Ecodopplercardiograma Transtorácico
+6900,2020-11-20,1100006900,12345676900,João,40101010,Ecg Convencional De Até 12 Derivações
+3281,2020-09-07,1100003281,12345673281,Maria,40901122,Abdome Total (Inclui Pelve)
+13592,2020-02-02,1100013592,123456713592,Rafael,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+6965,2020-07-01,1100006965,12345676965,Mariana,40101010,Ecg Convencional De Até 12 Derivações
+11015,2020-05-31,1100011015,123456711015,Camila,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+3749,2020-02-11,1100003749,12345673749,Juliana,40901122,Abdome Total (Inclui Pelve)
+853,2020-07-10,1100000853,12345670853,Patrícia,40201120,Endoscopia Digestiva Alta
+9551,2020-10-01,1100009551,12345679551,Cristina,40901114,Mamas
+6850,2020-06-28,1100006850,12345676850,Fernando,40101010,Ecg Convencional De Até 12 Derivações
+5723,2020-11-21,1100005723,12345675723,Ana,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+15491,2020-09-08,1100015491,123456715491,Cristina,40901203,Órgãos Superficiais (Tireóide Ou Escroto Ou Pênis Ou Crânio)
+3676,2020-04-23,1100003676,12345673676,Rodrigo,40901122,Abdome Total (Inclui Pelve)
+6042,2020-05-31,1100006042,12345676042,José,40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+11982,2020-08-23,1100011982,123456711982,José,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+1340,2020-08-12,1100001340,12345671340,João,40804127,Panorâmica Dos Membros Inferiores
+14066,2020-06-05,1100014066,123456714066,Carlos,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+2157,2020-07-24,1100002157,12345672157,Tatiana,40901165,"Aparelho Urinário Masculino (Rins, Ureteres, Bexiga E Próstata)"
+12548,2020-02-23,1100012548,123456712548,Lucas,40105075,Prova De Função Pulmonar Completa (Ou Espirometria)
+11343,2020-02-14,1100011343,123456711343,Ana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+4,2020-04-09,1100000004,12345670004,Pedro,20102011,Holter De 24 Horas - 2 Ou Mais Canais - Analógico
+13331,2020-10-18,1100013331,123456713331,Cristina,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+9133,2020-09-23,1100009133,12345679133,Patrícia,40901114,Mamas
+3442,2020-12-22,1100003442,12345673442,José,40901122,Abdome Total (Inclui Pelve)
+6006,2020-11-29,1100006006,12345676006,Carlos,41101014,Crânio (Encéfalo)
+9611,2020-01-18,1100009611,12345679611,Cristina,40901114,Mamas
+12581,2020-10-27,1100012581,123456712581,Maria,40105075,Prova De Função Pulmonar Completa (Ou Espirometria)
+4683,2020-06-24,1100004683,12345674683,Ana,41101316,Articular (Por Articulação)
+10511,2020-02-17,1100010511,123456710511,Cristina,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+14251,2020-02-24,1100014251,123456714251,Cristina,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+10267,2020-05-18,1100010267,123456710267,Paula,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+1947,2020-09-24,1100001947,12345671947,Paula,41101308,Pé (Antepé) - Não Inclui Tornozelo
+5584,2020-01-26,1100005584,12345675584,Pedro,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+524,2020-07-18,1100000524,12345670524,Pedro,41001230,Angiotomografia coronariana
+13277,2020-06-11,1100013277,123456713277,Tatiana,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+2424,2020-03-28,1100002424,12345672424,Pedro,40901084,Ecodopplercardiograma Fetal Com Mapeamento De Fluxo Em Cores
+3883,2020-02-03,1100003883,12345673883,Ana,40901122,Abdome Total (Inclui Pelve)
+10848,2020-03-11,1100010848,123456710848,Lucas,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+9697,2020-05-06,1100009697,12345679697,Tatiana,40901114,Mamas
+6772,2020-11-05,1100006772,12345676772,Rafael,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+14145,2020-12-31,1100014145,123456714145,Mariana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+8426,2020-09-06,1100008426,12345678426,Carlos,40901211,Estruturas Superficiais (Cervical Ou Axilas Ou Músculo Ou Tendão)
+9534,2020-02-28,1100009534,12345679534,Vinícius,40901114,Mamas
+199,2020-04-21,1100000199,12345670199,Isabela,40103102,Audiometria Vocal - Pesquisa De Limiar De Inteligibilidade
+10811,2020-07-22,1100010811,123456710811,Cristina,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+9632,2020-05-08,1100009632,12345679632,Rafael,40901114,Mamas
+9391,2020-10-11,1100009391,12345679391,Cristina,40901114,Mamas
+10887,2020-10-14,1100010887,123456710887,Paula,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+3405,2020-03-11,1100003405,12345673405,Mariana,40901122,Abdome Total (Inclui Pelve)
+9885,2020-04-03,1100009885,12345679885,Mariana,40808041,Mamografia Digital Bilateral
+13111,2020-11-15,1100013111,123456713111,Cristina,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+12425,2020-03-08,1100012425,123456712425,Mariana,40105075,Prova De Função Pulmonar Completa (Ou Espirometria)
+10173,2020-08-15,1100010173,123456710173,Patrícia,40808041,Mamografia Digital Bilateral
+8670,2020-09-27,1100008670,12345678670,Fernando,20102020,Holter De 24 Horas - 3 Canais - Digital
+4843,2020-11-20,1100004843,12345674843,Ana,40901220,Articular (Por Articulação)
+13464,2020-12-14,1100013464,123456713464,Pedro,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+10450,2020-05-18,1100010450,123456710450,Fernando,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+11258,2020-03-28,1100011258,123456711258,Gustavo,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+14410,2020-03-19,1100014410,123456714410,Fernando,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+8989,2020-11-29,1100008989,12345678989,Juliana,40901114,Mamas
+3254,2020-04-14,1100003254,12345673254,Vinícius,40901122,Abdome Total (Inclui Pelve)
+11470,2020-07-16,1100011470,123456711470,Fernando,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+10846,2020-04-01,1100010846,123456710846,Carlos,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+9758,2020-11-13,1100009758,12345679758,Gustavo,40808041,Mamografia Digital Bilateral
+10547,2020-12-02,1100010547,123456710547,Paula,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+148,2020-11-08,1100000148,12345670148,Lucas,40103439,Impedanciometria
+13595,2020-08-10,1100013595,123456713595,Camila,40101037,Teste Ergométrico Computadorizado (Inclui Ecg Basal Convencional)
+10640,2020-04-10,1100010640,123456710640,João,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+6894,2020-07-18,1100006894,12345676894,Vinícius,40101010,Ecg Convencional De Até 12 Derivações
+12126,2020-12-11,1100012126,123456712126,Carlos,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+5800,2020-09-27,1100005800,12345675800,João,41101014,Crânio (Encéfalo)
+11695,2020-01-25,1100011695,123456711695,Camila,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+12343,2020-12-05,1100012343,123456712343,Ana,40601013,Procedimento Diagnóstico Peroperatório Sem Deslocamento Do Patologista
+10810,2020-07-01,1100010810,123456710810,Fernando,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+5202,2020-09-12,1100005202,12345675202,José,40202666,Colonoscopia Com Biópsia E/Ou Citologia
+4226,2020-02-08,1100004226,12345674226,Carlos,41101537,Angio-Rm Arterial de Crânio
+9040,2020-04-26,1100009040,12345679040,João,40901114,Mamas
+1329,2020-04-12,1100001329,12345671329,Juliana,40804038,Articulação Coxofemoral (Quadril)
+11780,2020-01-24,1100011780,123456711780,João,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+5886,2020-01-09,1100005886,12345675886,Carlos,41101014,Crânio (Encéfalo)
+9547,2020-07-19,1100009547,12345679547,Paula,40901114,Mamas
+4329,2020-06-20,1100004329,12345674329,Juliana,40901769,"Aparelho Urinário  (Rins, Ureteres E Bexiga )"
+2881,2020-09-10,1100002881,12345672881,Maria,40901122,Abdome Total (Inclui Pelve)
+5054,2020-07-12,1100005054,12345675054,Vinícius,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+10821,2020-07-23,1100010821,123456710821,Maria,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+9614,2020-08-28,1100009614,12345679614,Vinícius,40901114,Mamas
+14171,2020-05-23,1100014171,123456714171,Cristina,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+14513,2020-01-10,1100014513,123456714513,Patrícia,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+9911,2020-07-19,1100009911,12345679911,Cristina,40808041,Mamografia Digital Bilateral
+15041,2020-11-09,1100015041,123456715041,Maria,40805026,Tórax - 2 Incidências
+10881,2020-09-29,1100010881,123456710881,Maria,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+3112,2020-06-11,1100003112,12345673112,Rafael,40901122,Abdome Total (Inclui Pelve)
+13987,2020-07-02,1100013987,123456713987,Paula,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+1817,2020-05-28,1100001817,12345671817,Tatiana,41001010,Tc- Crânio Ou Sela Túrsica Ou Órbitas
+7890,2020-11-02,1100007890,12345677890,Fernando,40901106,Ecodopplercardiograma Transtorácico
+13760,2020-11-26,1100013760,123456713760,João,40101045,Teste Ergométrico Convencional - 3 Ou Mais Derivações Simultâneas (Inclui Ecg Basal Convencional)
+8020,2020-10-14,1100008020,12345678020,João,40901106,Ecodopplercardiograma Transtorácico
+10516,2020-01-28,1100010516,123456710516,Rodrigo,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+12966,2020-11-11,1100012966,123456712966,Carlos,41001079,Tc - Tórax
+14466,2020-06-25,1100014466,123456714466,Carlos,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+10443,2020-04-19,1100010443,123456710443,Ana,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+9663,2020-08-07,1100009663,12345679663,Ana,40901114,Mamas
+1502,2020-03-27,1100001502,12345671502,José,40804011,Bacia
+2276,2020-08-05,1100002276,12345672276,Rodrigo,40901190,Dermatológico - Pele E Subcutâneo
+4385,2020-04-26,1100004385,12345674385,Mariana,41101316,Articular (Por Articulação)
+10057,2020-01-25,1100010057,123456710057,Tatiana,40808041,Mamografia Digital Bilateral
+358,2020-07-05,1100000358,12345670358,Gustavo,40103439,Impedanciometria
+5439,2020-03-21,1100005439,12345675439,Isabela,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+684,2020-01-11,1100000684,12345670684,Pedro,20010010,Eletrocardiograma - Ecg
+275,2020-03-07,1100000275,12345670275,Camila,40601129,Procedimento Diagnóstico Citopatológico Oncótico De Líquidos E Raspados Cutâneos
+11945,2020-05-25,1100011945,123456711945,Mariana,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+10616,2020-05-02,1100010616,123456710616,Rodrigo,41101189,Pelve (Não Inclui Articulações Coxofemorais)
+8501,2020-03-14,1100008501,12345678501,Maria,40901211,Estruturas Superficiais (Cervical Ou Axilas Ou Músculo Ou Tendão)
+1171,2020-11-30,1100001171,12345671171,Cristina,40804097,Pé Ou Pododáctilo
+11990,2020-01-04,1100011990,123456711990,Fernando,40601137,Procedimento Diagnóstico Em Citopatologia Cérvico-Vaginal Oncótica
+5103,2020-05-19,1100005103,12345675103,Ana,40201082,Colonoscopia (Inclui A Retossigmoidoscopia)
+7699,2020-06-20,1100007699,12345677699,Isabela,40901106,Ecodopplercardiograma Transtorácico
+13033,2020-06-29,1100013033,123456713033,Patrícia,41001095,"Tc Abdome Total (Abdome Superior, Pelve E Retroperitônio)"
+1615,2020-01-11,1100001615,12345671615,Camila,40804127,Panorâmica Dos Membros Inferiores
+15004,2020-07-19,1100015004,123456715004,Pedro,40805026,Tórax - 2 Incidências
+14034,2020-03-28,1100014034,123456714034,Vinícius,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+5501,2020-06-17,1100005501,12345675501,Maria,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+12706,2020-07-15,1100012706,123456712706,Carlos,41001079,Tc - Tórax
+10554,2020-10-05,1100010554,123456710554,Vinícius,20102038,Monitorização Ambulatorial Da Pressão Arterial - Mapa (24 Horas)
+3874,2020-01-28,1100003874,12345673874,Vinícius,40901122,Abdome Total (Inclui Pelve)
+860,2020-05-15,1100000860,12345670860,João,40201120,Endoscopia Digestiva Alta
+6715,2020-08-30,1100006715,12345676715,Camila,40901483,Doppler Colorido Venoso De Membro Inferior - Unilateral
+9888,2020-05-23,1100009888,12345679888,Lucas,40808041,Mamografia Digital Bilateral
+7170,2020-01-31,1100007170,12345677170,Fernando,40101010,Ecg Convencional De Até 12 Derivações
+12813,2020-07-29,1100012813,123456712813,Patrícia,41001079,Tc - Tórax
+11833,2020-03-24,1100011833,123456711833,Patrícia,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+7882,2020-12-09,1100007882,12345677882,José,40901106,Ecodopplercardiograma Transtorácico
+13949,2020-05-27,1100013949,123456713949,Juliana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+323,2020-11-13,1100000323,12345670323,Ana,40103331,Eletroneuromiografia De Mmss E Mmii
+2111,2020-07-06,1100002111,12345672111,Cristina,40901173,"Abdome Inferior Masculino (Bexiga, Próstata E Vesículas Seminais)"
+9482,2020-04-26,1100009482,12345679482,José,40901114,Mamas
+1672,2020-01-25,1100001672,12345671672,Rafael,40802019,Coluna Cervical - 3 Incidências
+8516,2020-10-23,1100008516,12345678516,Rodrigo,40901211,Estruturas Superficiais (Cervical Ou Axilas Ou Músculo Ou Tendão)
+5509,2020-03-17,1100005509,12345675509,Juliana,41101227,Coluna Cervical Ou Dorsal Ou Lombar
+11088,2020-02-10,1100011088,123456711088,Lucas,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+12371,2020-11-15,1100012371,123456712371,Cristina,40601013,Procedimento Diagnóstico Peroperatório Sem Deslocamento Do Patologista
+7146,2020-01-11,1100007146,12345677146,Carlos,40101010,Ecg Convencional De Até 12 Derivações
+844,2020-12-31,1100000844,12345670844,Pedro,33020019,U.S. Obstétrico Com Doppler
+3150,2020-05-09,1100003150,12345673150,Fernando,40901122,Abdome Total (Inclui Pelve)
+670,2020-02-06,1100000670,12345670670,Fernando,20010141,Ecocardiograma Bidimensional Com Mapeamento De Fluxo À Cores
+4472,2020-07-19,1100004472,12345674472,Rafael,41101316,Articular (Por Articulação)
+14737,2020-05-23,1100014737,123456714737,Tatiana,40901300,Transvaginal (Inclui Abdome Inferior Feminino)
+4227,2020-07-13,1100004227,12345674227,Paula,41101537,Angio-Rm Arterial de Crânio
+12676,2020-01-17,1100012676,123456712676,Rodrigo,41001079,Tc - Tórax
+3851,2020-03-28,1100003851,12345673851,Cristina,40901122,Abdome Total (Inclui Pelve)
+15071,2020-03-21,1100015071,123456715071,Cristina,40805026,Tórax - 2 Incidências
+11323,2020-09-28,1100011323,123456711323,Ana,40601110,Procedimento Diagnóstico Em Biópsia Simples Imprint E Cell Block
+763,2020-06-07,1100000763,12345670763,Ana,40808190,"Marcação Pré-Cirúrgica Por Nódulo - Máximo De 3 Nódulos Por Mama, Por Estereotaxia (Não Inclui Exame De Imagem)"
+12433,2020-05-11,1100012433,123456712433,Patrícia,40105075,Prova De Função Pulmonar Completa (Ou Espirometria)
