@@ -118,12 +118,83 @@ pip install -r requirements.txt
 
 # Arquitetura Simplificada
 
-- flowchart LR
-    A((Banco de dados)) --> B[Script Notificador]
-    B --> C[Classificação de Exames<br/>(TUSS + Regex)]
-    C --> D((Twilio/WhatsApp))
-    B --> E[Marcar Registros Notificados]
-    D --> F(Plataforma de Agendamento)
+```mermaid
+flowchart TB
+    subgraph BD["Banco de Dados (Cliente)"]
+        A1["Tabelas: dados_estruturados dados_nao_estruturados"]
+    end
+
+    subgraph API_GET["API do Cliente (GET)"]
+        B1["Recebe Dados de Exames"]
+    end
+
+    subgraph PROC["Processamento"]
+        C1["Normalização de Texto"]
+        C2["Classificação de Exames (TUSS + Regex)"]
+        C3["Agrupamento por Paciente"]
+        C4["Envio de Mensagens"]
+    end
+
+    subgraph ML["Modelo de ML (Opcional)"]
+        G1["Classificador Avançado"]
+    end
+
+    subgraph MSG["(Twilio)"]
+        D1["WhatsApp/SMS"]
+    end
+
+    subgraph APPS["Integrações Externas"]
+        E1["Plataforma de Agendamento"]
+    end
+
+    subgraph API_POST["API do Cliente (POST)"]
+        H1["Atualização de Registros"]
+    end
+
+    subgraph DATA["Visualização de Dados"]
+        F1["Dashboards / Relatórios"]
+    end
+
+    %% Conexões Principais
+    BD -->|Consulta| API_GET
+    API_GET -->|Envia Dados| PROC
+    PROC -->|Opcional Modelo ML| ML
+    PROC -->|Envia Mensagens| MSG
+    MSG -->|WhatsApp| APPS
+    APPS -->|Agendamento Feito| API_POST
+    API_POST -->|Atualiza DB| BD
+    BD -->|Exibe Dados| DATA
+```
+
+##  Explicação dos Componentes
+
+###  Banco de Dados (Cliente)
+Contém registros de exames estruturados e não estruturados.
+
+###  API do Cliente (GET)
+- Consulta os dados do banco de dados do cliente.  
+- Retorna exames pendentes e dados dos pacientes.
+
+###  Processamento
+- **Classificação de Exames** → Verifica se é imagem ou não (TUSS + Regex).  
+- **Normalização de Texto** → Corrige erros e variações de escrita.  
+- **Identificação TUSS** → Mapeia exames ao código correto.  
+- **Envio de Notificação** → Prepara mensagens personalizadas.  
+
+###  Serviço de Mensageria (Twilio)
+- Envia mensagens via **WhatsApp**.  
+
+###  Integrações Externas (Apps Terceiros)
+- Redireciona o paciente para a **plataforma de agendamento** do cliente.  
+
+###  Visualização de Dados (Data View)
+- Painéis para monitoramento de envios, conversões e pendências.  
+
+###  Machine Learning (Futuro)
+- Modelo avançado para substituir Regex na classificação de exames.  
+
+###  API do Cliente (POST)
+- Atualiza o status dos registros após a notificação ser enviada.  
 
 
 - **Banco de dados**: Registros estruturados e não estruturados.  
