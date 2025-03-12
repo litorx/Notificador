@@ -3,7 +3,6 @@ import re
 import time
 import logging
 import pandas as pd
-import nltk
 from sqlalchemy import create_engine, text
 from datetime import datetime
 from twilio.rest import Client
@@ -28,9 +27,6 @@ TWILIO_FROM_NUMBER = os.getenv("TWILIO_FROM_NUMBER")
 COMPANY_NAME = os.getenv("COMPANY_NAME", "Folks")
 PLATFORM_LINK = os.getenv("PLATFORM_LINK", "https://calendly.com/")
 USE_SANDBOX = os.getenv("USE_SANDBOX")
-
-
-nltk.download("punkt")
 
 
 engine = create_engine(DATABASE_URL)
