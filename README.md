@@ -39,9 +39,6 @@ Seu principal objetivo é **monitorar** o banco de dados de clientes, **identifi
   - ORM que abstrai a comunicação com bancos relacionais.  
   - Facilita operações complexas de forma mais simples.
 
-- **nltk**  
-  - Biblioteca leve para tarefas de NLP básicas.  
-  - Útil para normalizar e tokenizar textos rapidamente.
 
 - **pandas**  
   - DataFrames para manipulação eficiente de dados.  
