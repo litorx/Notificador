@@ -207,3 +207,6 @@ flowchart TB
 
 **Email**
 - Adicionar envios por email, com fim de aumentar a taxa de conversão.
+
+- **Data**
+- Enviar menssagens por data, para ser algo realmente para lembrar o cliente, e não enviar assim que a informação cair no sistema.
