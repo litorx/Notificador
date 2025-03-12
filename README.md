@@ -3,12 +3,12 @@
 Script em Python **plug-and-play**, com foco em **escalabilidade**, **baixo custo** e **alto rendimento**.  
 Seu principal objetivo é **monitorar** o banco de dados de clientes, **identificar exames pendentes** e **enviar mensagens** via WhatsApp para lembrar os pacientes de agendar esses exames.
 
----
+
 
 ## Visão Geral
 
 - **Leitura em Lotes (Chunks)**  
-  Lida com grandes volumes (milhares/milhões de registros) sem sobrecarregar a memória.
+  Lida com grandes volumes (milhares/milhões de registros) sem sobrecarregar a memória de forma eficiente.
 
 - **Classificação de Exames**  
   - Para dados **estruturados** (com `cd_tuss`), faz mapeamento imediato a partir de um dicionário TUSS.  
@@ -16,7 +16,8 @@ Seu principal objetivo é **monitorar** o banco de dados de clientes, **identifi
 
 - **Envio de Mensagens**  
   - Integração com **Twilio** para envio via **WhatsApp**.  
-  - Mensagem amigável, incluindo o nome do usuário, texto persuasivo e link para plataforma de agendamento.
+  - Mensagem amigável, incluindo o nome do usuário, texto persuasivo e link para plataforma de agendamento (podendo personalizar) .
+  - Custo mais acessivel (130$ cada 10.000 pacientes)
 
 - **Evita Repetição**  
   - Marca registros como `notified=true` para que o mesmo paciente não receba mensagens duplicadas.
@@ -28,39 +29,51 @@ Seu principal objetivo é **monitorar** o banco de dados de clientes, **identifi
 - **Cloud**  
   - Fácil de implantar em **GCP** (Cloud Run, Cloud Functions) ou outros provedores, podendo rodar em loop infinito.
 
----
+
 
 ## Tecnologias Principais
 
-- **Python**  
-  Produtivo, robusto e com ampla comunidade.
-
-- **SQLAlchemy**  
-  - ORM que abstrai a comunicação com bancos relacionais.  
-  - Facilita operações complexas de forma mais simples.
+**Python**
+- **Motivo da Escolha**: Linguagem de alto nível, com sintaxe simples e grande ecossistema de bibliotecas.
+- **Benefícios**: Agilidade no desenvolvimento, vasta comunidade (facilitando suporte e soluções de problemas).
+- **No Projeto**: Facilita a criação de scripts de notificação em loop infinito, manipulação de dados e integração com APIs (como Twilio) e bancos de dados.
 
 
-- **pandas**  
-  - DataFrames para manipulação eficiente de dados.  
-  - Suporte a processamento em chunks, evitando sobrecarga de memória.
 
-- **Twilio**  
-  - Plataforma confiável para envio de mensagens WhatsApp/SMS.  
-  - Possui modo sandbox para testes e modo produção.
+**SQLAlchemy**
+- **Motivo da Escolha**: É um ORM (Object-Relational Mapping) maduro e amplamente utilizado no ecossistema Python.
+- **Benefícios**: Simplifica a manipulação de dados em bancos relacionais, dispensando a necessidade de SQL cru para cada operação.
+- **No Projeto**: Permite que o script acesse as tabelas (`dados_estruturados`, `dados_nao_estruturados`) de forma mais organizada, mantendo queries e lógicas centralizadas.
 
-- **Plotly** (opcional)  
-  - Geração de dashboards e visualizações interativas.  
-  - Pode ser usado para monitorar taxa de conversão e estatísticas de envio.
 
-- **GCP** (opcional)  
-  - Desempenho e escalabilidade automática via Cloud Run.  
-  - Cotas gratuitas que permitem iniciar o projeto com custo quase zero.
+**pandas**
+- **Motivo da Escolha**: Principal biblioteca Python para análise e manipulação de dados tabulares.
+- **Benefícios**: Oferece estruturas de dados (DataFrames) e métodos eficientes para limpeza, filtragem e agregação.
+- **No Projeto**: Viabiliza leitura de dados em “chunks”, evitando sobrecarga de memória ao lidar com volumes massivos de registros (ex.: `chunk_size=1000`).
 
-- **PostgreSQL**  
-  - Banco de dados seguro e escalável.  
-  - Altamente compatível com Python/SQLAlchemy.
 
----
+**Twilio**
+- **Motivo da Escolha**: Plataforma confiável para envio de mensagens (SMS/WhatsApp), amplamente reconhecida no mercado.
+- **Benefícios**: Modo sandbox para desenvolvimento, APIs fáceis de usar, documentação completa e suporte global.
+- **No Projeto**: Garante o envio de notificações via WhatsApp, incluindo links de agendamento, com poucos comandos e escalabilidade global (uso de `Client` para criação de mensagens).
+
+
+**Plotly (opcional)**
+- **Motivo da Escolha**: Biblioteca para visualizações interativas e dashboards.
+- **Benefícios**: Criação de gráficos dinâmicos em notebooks ou aplicações web.
+- **No Projeto**: Possibilita a construção de painéis de monitoramento (quantos exames foram notificados, taxa de conversão etc.), embora não seja estritamente necessário.
+
+
+**GCP (opcional)**
+- **Motivo da Escolha**: Oferece serviços gerenciados (Cloud Run, Cloud Functions) e escalabilidade automática baseada em uso.
+- **Benefícios**: Cotas gratuitas, integração nativa com monitoramento e logging, reduzindo custos de infraestrutura.
+- **No Projeto**: Permite empacotar o script em contêiner e implantá-lo sem precisar gerenciar servidores (loop infinito funcionando sem complicações).
+
+
+**PostgreSQL**
+- **Motivo da Escolha**: Banco de dados robusto, seguro e escalável, amplamente adotado por grandes empresas.
+- **Benefícios**: Suporta consultas complexas, extensões avançadas, conformidade ACID.
+- **No Projeto**: Armazena dados estruturados (com `cd_tuss`) e não estruturados (texto livre), garantindo confiabilidade e desempenho ao lidar com grandes volumes de leituras/escritas.
 
 ## Fluxo de Trabalho
 
@@ -208,5 +221,5 @@ flowchart TB
 **Email**
 - Adicionar envios por email, com fim de aumentar a taxa de conversão.
 
-- **Data**
-- Enviar menssagens por data, para ser algo realmente para lembrar o cliente, e não enviar assim que a informação cair no sistema.
+**Data**
+- Enviar menssagens por data, para ser algo realmente para lembrar o cliente, e não enviar assim que a informação cair no sistema, podendo configurar menssagens personalizadas para datas especiais (aniversario, natal etc).
