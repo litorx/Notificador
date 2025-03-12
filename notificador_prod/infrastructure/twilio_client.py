@@ -3,7 +3,7 @@ import logging
 from config.settings import TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN, TWILIO_FROM_NUMBER, USE_SANDBOX
 from domain.exam_utils import build_message_for_exams
 
-logger = logging.getLogger("folks_notifier")
+logger = logging.getLogger("notifier")
 
 def send_notification(to_number, client_name, exam_list):
     """

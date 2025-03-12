@@ -6,7 +6,7 @@ from infrastructure.database import engine, mark_as_notified_by_tel
 from domain.exam_utils import classify_exam
 from infrastructure.twilio_client import send_notification
 
-logger = logging.getLogger("folks_notifier")
+logger = logging.getLogger("notifier")
 
 def infinite_loop(chunk_size=1000, sleep_seconds=30):
     """

@@ -6,7 +6,7 @@ try:
 except ImportError:
     HAS_UNIDECODE = False
 
-# Dicionário TUSS com tuplas (exame, pronome, tipo)
+
 TUSS_EXAMS = {
     40901114: ("Ultrassonografia", "sua", "imagem"),
     40501012: ("Tomografia Computadorizada", "sua", "imagem"),
@@ -17,7 +17,7 @@ TUSS_EXAMS = {
     40701121: ("Endoscopia", "sua", "nao_imagem")
 }
 
-# Dicionário de padrões para exames
+
 exam_patterns = {
     "tomografia computadorizada": {
         "pattern": re.compile(r'\b(?:tomografia|tc)\b', re.IGNORECASE),
@@ -56,7 +56,7 @@ exam_patterns = {
     }
 }
 
-# Termos a serem ignorados
+
 ignore_terms = {
     "sem exame", "exame não especificado", "apenas checkup", "sem exame adicional"
 }

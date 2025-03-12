@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine, text
 from config.settings import DATABASE_URL
 
-# Cria a conexão com o Banco de Dados
+
 engine = create_engine(DATABASE_URL)
 
 def mark_as_notified_by_tel(conn, tel):

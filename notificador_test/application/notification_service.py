@@ -6,15 +6,9 @@ from infrastructure.database import engine, mark_as_notified_by_tel
 from domain.exam_utils import classify_exam
 from infrastructure.twilio_client import send_notification
 
-logger = logging.getLogger("folks_notifier")
+logger = logging.getLogger("notifier")
 
 def infinite_loop(chunk_size=10, sleep_seconds=30):
-    """
-    Loop infinito que:
-      - Lê registros não notificados das tabelas _test
-      - Agrupa os dados por telefone, classifica os exames e envia a notificação
-      - Atualiza os registros como notificados
-    """
     while True:
         logger.info("Iniciando varredura de dados não notificados (tabelas _test)...")
         any_sent = False
@@ -58,7 +52,7 @@ def infinite_loop(chunk_size=10, sleep_seconds=30):
 
                 cat, pron, ex_type = classify_exam(cd_tuss, ds_receita)
 
-                # Define a tabela de origem com base na presença de cd_tuss
+
                 if "cd_tuss" in row and not pd.isnull(row["cd_tuss"]):
                     table_name = "dados_estruturados_test"
                 else:
