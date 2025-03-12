@@ -118,7 +118,6 @@ pip install -r requirements.txt
 
 # Arquitetura Simplificada
 
-- mermaid
 - flowchart LR
     A((Banco de dados)) --> B[Script Notificador]
     B --> C[Classificação de Exames<br/>(TUSS + Regex)]
