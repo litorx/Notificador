@@ -197,7 +197,7 @@ flowchart TB
 
 # Melhorias Futuras
 **Machine Learning Avançado**
-- Substituir regex por um classificador robusto (Hugging Face, scikit etc.) para extrair tipo de exame e parte do corpo.
+- Substituir regex por um classificador robusto (Hugging Face, scikit etc.) para extrair tipo de exame e parte do corpo para uma menssagem mais acertiva.
 
 **Canal Bidirecional**
 - Permitir respostas do paciente via WhatsApp, integrando com o agendamento automático.
@@ -207,3 +207,6 @@ flowchart TB
 
 **Dashboards**
 - Construir relatórios com Plotly ou Looker Studio, exibindo taxa de conversão, exames pendentes e enviados.
+
+**Email**
+- Adicionar envios por email, com fim de aumentar a taxa de conversão.
