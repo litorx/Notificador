@@ -205,9 +205,14 @@ flowchart TB
 - **Twilio**: Serviço de mensageria via WhatsApp.  
 - **Plataforma de Agendamento**: Link para o paciente marcar o exame.  
 
+# Exemplo de mensagem
+
+![image](https://github.com/user-attachments/assets/521f9561-1029-44e9-8e12-a39f663ce9b2)
+
+
 # Melhorias Futuras
 **Machine Learning Avançado**
-- Substituir regex por um classificador robusto (Hugging Face, scikit etc.) para extrair tipo de exame e parte do corpo para uma menssagem mais acertiva.
+- Substituir regex por um classificador robusto (Hugging Face, scikit etc.) para extrair tipo de exame e parte do corpo para uma mensagem mais acertiva.
 
 **Canal Bidirecional**
 - Permitir respostas do paciente via WhatsApp, integrando com o agendamento automático.
@@ -222,4 +227,4 @@ flowchart TB
 - Adicionar envios por email, com fim de aumentar a taxa de conversão.
 
 **Data**
-- Enviar menssagens por data, para ser algo realmente para lembrar o cliente, e não enviar assim que a informação cair no sistema, podendo configurar menssagens personalizadas para datas especiais (aniversario, natal etc).
+- Enviar mensagens por data, para ser algo realmente para lembrar o cliente, e não enviar assim que a informação cair no sistema, podendo configurar mensagens personalizadas para datas especiais (aniversario, natal etc).
