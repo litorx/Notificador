@@ -1,7 +1,7 @@
 # Notificador
 
 Script em Python **plug-and-play**, com foco em **escalabilidade**, **baixo custo** e **alto rendimento**.  
-Seu principal objetivo é **monitorar** o banco de dados de clientes, **identificar exames de imagem pendentes** e **enviar mensagens** via WhatsApp para lembrar os pacientes de agendar esses exames.
+Seu principal objetivo é **monitorar** o banco de dados de clientes, **identificar exames pendentes** e **enviar mensagens** via WhatsApp para lembrar os pacientes de agendar esses exames.
 
 ---
 
