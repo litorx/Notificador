@@ -92,30 +92,6 @@ Seu principal objetivo é **monitorar** o banco de dados de clientes, **identifi
 7. **Loop Infinito**:  
    - O script dorme alguns segundos (`sleep_seconds`) e volta a ler o próximo lote.
 
----
-
-## Como Executar
-
-# 1) Instalar Dependências
-pip install -r requirements.txt
-
-# 2) Definir Variáveis de Ambiente
-- export DATABASE_URL="postgresql://usuario:senha@host:porta/db"
-- export TWILIO_ACCOUNT_SID="..."
-- export TWILIO_AUTH_TOKEN="..."
-- export TWILIO_FROM_NUMBER="whatsapp:+XXXX"
-- export COMPANY_NAME="Folks"
-- export PLATFORM_LINK="Plataforma"
-- export USE_SANDBOX="true/false"
-
-# 3) Executar
-- **python notificador.py**
-- **O script rodará em loop infinito, processando e enviando notificações.**
-
-# 4) Implantar na Nuvem (opcional)
-- **Dockerizar o script e enviar para GCP (Cloud Run) ou outro provedor.**
-- **Ajustar variáveis de ambiente no serviço de destino.**
-
 # Arquitetura Simplificada
 
 ```mermaid
@@ -151,9 +127,6 @@ flowchart TB
         H1["Atualização de Registros"]
     end
 
-    subgraph DATA["Visualização de Dados"]
-        F1["Dashboards / Relatórios"]
-    end
 
     %% Conexões Principais
     BD -->|Consulta| API_GET
@@ -163,38 +136,58 @@ flowchart TB
     MSG -->|WhatsApp| APPS
     APPS -->|Agendamento Feito| API_POST
     API_POST -->|Atualiza DB| BD
-    BD -->|Exibe Dados| DATA
 ```
 
-##  Explicação dos Componentes
+## Explicação dos Componentes
+**Banco de Dados (Cliente)**
+- Armazena os registros estruturados (com cd_tuss) e não estruturados (texto livre). Cada registro possui o campo notified para evitar envios repetidos.
 
-###  Banco de Dados (Cliente)
-Contém registros de exames estruturados e não estruturados.
+**API do Cliente (GET)**
+- Fornece dados de exames ao script (pode ser uma chamada REST ou outra forma de ingestão de dados).
 
-###  API do Cliente (GET)
-- Consulta os dados do banco de dados do cliente.  
-- Retorna exames pendentes e dados dos pacientes.
+**Processamento (Script Notificador)**
 
-###  Processamento
-- **Classificação de Exames** → Verifica se é imagem ou não (TUSS + Regex).  
-- **Normalização de Texto** → Corrige erros e variações de escrita.  
-- **Identificação TUSS** → Mapeia exames ao código correto.  
-- **Envio de Notificação** → Prepara mensagens personalizadas.  
+- Normalização de Texto: Remove acentos e tokens irrelevantes.
+- Classificação de Exames (TUSS + Regex): Determina se o exame é de imagem ou não.
+- Agrupamento por Paciente: Reúne exames pendentes por telefone.
+- Envio de Mensagens: Solicita o envio via Twilio.
 
-###  Serviço de Mensageria (Twilio)
-- Envia mensagens via **WhatsApp**.  
+**Modelo de ML (Opcional)**
+- Substitui ou complementa as regex para classificar exames de forma mais robusta (ex.: extrair tipo de exame e parte do corpo).
 
-###  Integrações Externas (Apps Terceiros)
-- Redireciona o paciente para a **plataforma de agendamento** do cliente.  
+**Serviço de Mensageria (Twilio)**
+- Responsável pelo envio das mensagens via WhatsApp ou SMS.
 
-###  Visualização de Dados (Data View)
-- Painéis para monitoramento de envios, conversões e pendências.  
+**Integrações Externas**
+- Ex.: Plataforma de Agendamento, onde o paciente agenda o exame.
 
-###  Machine Learning (Futuro)
-- Modelo avançado para substituir Regex na classificação de exames.  
+**API do Cliente (POST)**
+- Recebe confirmações do paciente (ex.: agendamento concluído) e atualiza o banco.
 
-###  API do Cliente (POST)
-- Atualiza o status dos registros após a notificação ser enviada.  
+---
+
+## Como Executar
+
+**1) Instalar Dependências**
+pip install -r requirements.txt
+
+**2) Definir Variáveis de Ambiente**
+- export DATABASE_URL="postgresql://usuario:senha@host:porta/db"
+- export TWILIO_ACCOUNT_SID="..."
+- export TWILIO_AUTH_TOKEN="..."
+- export TWILIO_FROM_NUMBER="whatsapp:+XXXX"
+- export COMPANY_NAME="Folks"
+- export PLATFORM_LINK="Plataforma"
+- export USE_SANDBOX="true/false"
+
+**3) Executar**
+- **python notificador.py**
+- **O script rodará em loop infinito, processando e enviando notificações.**
+
+**4) Implantar na Nuvem (opcional)**
+- **Dockerizar o script e enviar para GCP (Cloud Run) ou outro provedor.**
+- **Ajustar variáveis de ambiente no serviço de destino.**
+
 
 
 - **Banco de dados**: Registros estruturados e não estruturados.  
