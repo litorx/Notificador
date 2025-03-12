@@ -169,7 +169,7 @@ flowchart TB
 ## Como Executar
 
 **1) Instalar Dependências**
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 **2) Definir Variáveis de Ambiente**
 - export DATABASE_URL="postgresql://usuario:senha@host:porta/db"
