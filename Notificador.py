@@ -11,7 +11,7 @@ from sqlalchemy import create_engine, text
 from datetime import datetime
 from twilio.rest import Client
 
-# Tente remover acentos estranhos ("Ressonfncia" => "Ressonancia")
+# Tente remover acentos estranhos ("Ressonfncia" para "Ressonancia")
 try:
     from unidecode import unidecode
     HAS_UNIDECODE = True
@@ -193,7 +193,7 @@ def send_notification(to_number, client_name, exam_list):
     """
     - Monta a mensagem bullet.
     - Envia via Twilio (Sandbox ou Produção).
-    - Trata erro 63038 (erro mais comum de limite diario).
+    - Trata erro 63038 (erro mais comum de limite diario em casos de teste).
     """
     # Ajusta número para WhatsApp se não tiver prefixo
     if not to_number.startswith("whatsapp:"):
@@ -285,7 +285,7 @@ def infinite_loop(chunk_size=1000, sleep_seconds=30):
                 params={"lim": chunk_size}
             )
 
-            # Se ambos vazios => dorme e recomeça
+            # Se ambos vazios dorme e recomeça
             if df1.empty and df2.empty:
                 logger.info("Nenhum registro pendente encontrado. Dormindo...")
                 time.sleep(sleep_seconds)
@@ -319,10 +319,10 @@ def infinite_loop(chunk_size=1000, sleep_seconds=30):
                 ok = send_notification(tel, c_name, exam_list)
                 if ok:
                     any_sent = True
-                    # Marca todos do tel => sem duplicidade
+                    # Marca todos do tel  sem duplicidade
                     mark_as_notified_by_tel(conn, tel)
 
-        # Se enviou algo => dorme 5s, senão => dorme sleep_seconds
+        # Se enviou algo  dorme 5s, senão  dorme sleep_seconds
         if any_sent:
             logger.info("Envios realizados neste ciclo. Retomando em 5s.")
             time.sleep(5)
