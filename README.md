@@ -58,12 +58,6 @@ Seu principal objetivo é **monitorar** o banco de dados de clientes, **identifi
 - **No Projeto**: Garante o envio de notificações via WhatsApp, incluindo links de agendamento, com poucos comandos e escalabilidade global (uso de `Client` para criação de mensagens).
 
 
-**Plotly (opcional)**
-- **Motivo da Escolha**: Biblioteca para visualizações interativas e dashboards.
-- **Benefícios**: Criação de gráficos dinâmicos em notebooks ou aplicações web.
-- **No Projeto**: Possibilita a construção de painéis de monitoramento (quantos exames foram notificados, taxa de conversão etc.), embora não seja estritamente necessário.
-
-
 **GCP (opcional)**
 - **Motivo da Escolha**: Oferece serviços gerenciados (Cloud Run, Cloud Functions) e escalabilidade automática baseada em uso.
 - **Benefícios**: Cotas gratuitas, integração nativa com monitoramento e logging, reduzindo custos de infraestrutura.
