@@ -7,7 +7,6 @@ import re
 import time
 import logging
 import pandas as pd
-import nltk
 from sqlalchemy import create_engine, text
 from datetime import datetime
 from twilio.rest import Client
@@ -38,11 +37,6 @@ TWILIO_FROM_NUMBER = os.getenv("TWILIO_FROM_NUMBER")
 COMPANY_NAME = os.getenv("COMPANY_NAME")
 PLATFORM_LINK = os.getenv("PLATFORM_LINK")
 USE_SANDBOX = os.getenv("USE_SANDBOX", "true").lower() == "true"
-
-
-# NLTK (se necessário)
-
-nltk.download("punkt")
 
 
 # Conexão com o Banco de Dados
