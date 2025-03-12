@@ -1,0 +1,7 @@
+pandas
+nltk
+SQLAlchemy
+twilio
+plotly
+psycopg2-binary
+unicode
